@@ -1,103 +1,1001 @@
-id,nama,pengalaman,skill,preferensi
-1,Andi Setiawan,2,Pemasaran,Administrasi
-2,Budi Hartanto,3,Pelayanan,Pelanggan
-3,Citra Lestari,1,Pemasaran,Pelanggan
-4,Dedi Pratama,2,Administrasi,Pemasaran
-5,Eka Suryadi,3,Pelayanan,Persediaan
-6,Fitriani Rahayu,2,Pelanggan,Administrasi
-7,Gunawan Santoso,4,Administrasi,Persediaan
-8,Hendrianto Wijaya,1,Pelayanan,Pelanggan
-9,Indra Nugraha,2,Pemasaran,Administrasi
-10,Joko Susanto,3,Pelayanan,Pelanggan
-11,Kartika Dewi,2,Pemasaran,Pelanggan
-12,Larasati Sari,1,Pelayanan,Administrasi
-13,Maulana Yusuf,2,Administrasi,Pemasaran
-14,Nina Puspita,3,Pelayanan,Persediaan
-15,Oscar Saputra,2,Pelanggan,Administrasi
-16,Pramudya Wibowo,4,Administrasi,Persediaan
-17,Putri Ayu,1,Pelayanan,Pelanggan
-18,Rizky Prasetya,2,Pemasaran,Administrasi
-19,Santi Dewi,3,Pelayanan,Pelanggan
-20,Taufik Hidayat,2,Pemasaran,Pelanggan
-21,Ulfa Nurul,1,Pelayanan,Administrasi
-22,Vita Kusuma,2,Administrasi,Pemasaran
-23,Wahyu Kurniawan,3,Pelayanan,Persediaan
-24,Yanto Setiawan,2,Pelanggan,Administrasi
-25,Zara Putri,4,Administrasi,Persediaan
-26,Agus Prayitno,1,Pelayanan,Pelanggan
-27,Ani Kartika,2,Pemasaran,Administrasi
-28,Bayu Prasetyo,3,Pelayanan,Pelanggan
-29,Citra Rahmawati,2,Pemasaran,Pelanggan
-30,Dedi Susanto,1,Pelayanan,Administrasi
-31,Eka Wijaya,2,Administrasi,Pemasaran
-32,Fitri Handayani,3,Pelayanan,Persediaan
-33,Gunawan Sutanto,2,Pelanggan,Administrasi
-34,Hendra Setiawan,4,Administrasi,Persediaan
-35,Indah Dewi,1,Pelayanan,Pelanggan
-36,Joko Santoso,2,Pemasaran,Administrasi
-37,Kartika Sari,3,Pelayanan,Pelanggan
-38,Laras Pratiwi,2,Pemasaran,Pelanggan
-39,Maulana Setiawan,1,Pelayanan,Administrasi
-40,Nina Kartika,2,Administrasi,Pemasaran
-41,Oscar Wibowo,3,Pelayanan,Persediaan
-42,Pramudya Nugraha,2,Pelanggan,Administrasi
-43,Putri Lestari,4,Administrasi,Persediaan
-44,Rizky Dewi,1,Pelayanan,Pelanggan
-45,Santi Handayani,2,Pemasaran,Administrasi
-46,Taufik Setiawan,3,Pelayanan,Pelanggan
-47,Ulfa Sari,2,Pemasaran,Pelanggan
-48,Vita Susanto,1,Pelayanan,Administrasi
-49,Wahyu Prasetyo,2,Administrasi,Pemasaran
-50,Yanto Wijaya,3,Pelayanan,Persediaan
-51,Zara Handayani,2,Pelanggan,Administrasi
-52,Agus Setiawan,4,Administrasi,Persediaan
-53,Ani Sari,1,Pelayanan,Pelanggan
-54,Bayu Santoso,2,Pemasaran,Administrasi
-55,Citra Kartika,3,Pelayanan,Pelanggan
-56,Dedi Kusuma,2,Pemasaran,Pelanggan
-57,Eka Rahayu,1,Pelayanan,Administrasi
-58,Fitriani Pratama,2,Administrasi,Pemasaran
-59,Gunawan Suryadi,3,Pelayanan,Persediaan
-60,Hendrianto Wijaya,2,Pelanggan,Administrasi
-61,Indra Setiawan,4,Administrasi,Persediaan
-62,Joko Hartanto,1,Pelayanan,Pelanggan
-63,Kartika Lestari,2,Pemasaran,Administrasi
-64,Laras Prasetya,3,Pelayanan,Pelanggan
-65,Maulana Dewi,2,Pemasaran,Pelanggan
-66,Nina Handayani,1,Pelayanan,Administrasi
-67,Oscar Setiawan,2,Administrasi,Pemasaran
-68,Pramudya Santoso,3,Pelayanan,Persediaan
-69,Putri Wijaya,2,Pelanggan,Administrasi
-70,Rizky Rahayu,4,Administrasi,Persediaan
-71,Santi Pratama,1,Pelayanan,Pelanggan
-72,Taufik Suryadi,2,Pemasaran,Administrasi
-73,Ulfa Wijaya,3,Pelayanan,Pelanggan
-74,Vita Hartanto,2,Pemasaran,Pelanggan
-75,Wahyu Lestari,1,Pelayanan,Administrasi
-76,Yanto Prasetya,2,Administrasi,Pemasaran
-77,Zara Dewi,3,Pelayanan,Persediaan
-78,Agus Handayani,2,Pelanggan,Administrasi
-79,Ani Setiawan,4,Administrasi,Persediaan
-80,Bayu Hartanto,1,Pelayanan,Pelanggan
-81,Citra Suryadi,2,Pemasaran,Administrasi
-82,Dedi Wijaya,3,Pelayanan,Pelanggan
-83,Eka Pratama,2,Pemasaran,Pelanggan
-84,Fitriani Rahayu,1,Pelayanan,Administrasi
-85,Gunawan Santoso,2,Administrasi,Pemasaran
-86,Hendrianto Lestari,3,Pelayanan,Persediaan
-87,Indra Prasetya,2,Pelanggan,Administrasi
-88,Joko Dewi,4,Administrasi,Persediaan
-89,Kartika Setiawan,1,Pelayanan,Pelanggan
-90,Laras Kartika,2,Pemasaran,Administrasi
-91,Maulana Pratiwi,3,Pelayanan,Pelanggan
-92,Nina Setiawan,2,Pemasaran,Pelanggan
-93,Oscar Hartanto,1,Pelayanan,Administrasi
-94,Pramudya Suryadi,2,Administrasi,Pemasaran
-95,Putri Lestari,3,Pelayanan,Persediaan
-96,Rizky Pratama,2,Pelanggan,Administrasi
-97,Santi Santoso,4,Administrasi,Persediaan
-98,Taufik Dewi,1,Pelayanan,Pelanggan
-99,Ulfa Handayani,2,Pemasaran,Administrasi
-100,Vita Setiawan,3,Pelayanan,Pelanggan
-101,Wahyu Kartika,2,Pemasaran,Pelanggan
-102,Yanto Pratiwi,1,Pelayanan,Administrasi
+id, nama, alamat, pendidikan, pengalaman, pengalaman_tahun, keterampilan, peminatan
+1,Devi Laksita,KABUPATEN BATU BARA,SMP,Retail dan Dagang,3,Inovasi,Pariwisata
+2,Maryadi Damanik,KABUPATEN ACEH TIMUR,SD,Freelance,3,Komunikasi,Pekerjaan Lepas
+3,Harsana Puspasari,KABUPATEN BANTUL,SMP,Teknologi,3,Pemasaran,Tidak Ada Pengalaman
+4,Banawi Pratiwi,KABUPATEN ENREKANG,SMP,Retail dan Dagang,3,Teknologi Informasi,Teknik
+5,Karen Waskita,KABUPATEN PUNCAK,S1/D4,Pekerjaan Lepas,2,Adaptasi,Teknik
+6,Cecep Nurdiyanti,KABUPATEN BUTON SELATAN,SMP,Pekerjaan Lepas,1,Komunikasi,Teknik
+7,Panca Saragih,KABUPATEN BANGKALAN,SMP,Teknologi,1,Manajemen,Pekerjaan Lepas
+8,Usman Narpati,KABUPATEN RAJA AMPAT,S1/D4,Teknik,2,Manajemen,Freelance
+9,Keisha Haryanti,KABUPATEN BEKASI,SMA/SMK,Teknologi,1,Kepemimpinan,Retail dan Dagang
+10,Mariadi Utama,KABUPATEN BUTON,SD,Retail dan Dagang,1,Keuangan,Freelance
+11,Tirtayasa Rahayu,KABUPATEN BEKASI,S1/D4,Teknologi,2,Kepemimpinan,Pelayanan
+12,Jumadi Gunawan,KABUPATEN BALANGAN,S1/D4,Teknologi,2,Keuangan,Pariwisata
+13,Unjani Yuniar,KABUPATEN KARAWANG,SMP,Tidak Ada Pengalaman,1,Pemasaran,Teknologi
+14,Raihan Manullang,KABUPATEN ALOR,SMP,Pelayanan,3,Mengembangkan Jaringan,Retail dan Dagang
+15,Galak Maryati,KABUPATEN BIREUEN,SD,Pariwisata,1,Mengembangkan Jaringan,Freelance
+16,Banara Anggriawan,KABUPATEN PANGANDARAN,SMP,Teknologi,3,Manajemen Risiko,Pelayanan
+17,Laksana Januar,KABUPATEN SABU RAIJUA,SMP,Pelayanan,1,Mengembangkan Jaringan,Teknologi
+18,Kadir Mandasari,KABUPATEN ACEH JAYA,S1/D4,Pelayanan,2,Adaptasi,Teknologi
+19,Ulva Putra,KABUPATEN KEEROM,SD,Pekerjaan Lepas,3,Mengembangkan Jaringan,Pelayanan
+20,Lanjar Yuniar,KABUPATEN BARITO SELATAN,S1/D4,Freelance,1,Penjualan,Pelayanan
+21,Zahra Gunawan,KABUPATEN BANYU ASIN,S1/D4,Pariwisata,3,Penjualan,Tidak Ada Pengalaman
+22,Bahuwirya Hutapea,KABUPATEN TEGAL,SD,Teknologi,2,Komunikasi,Freelance
+23,Aswani Nasyiah,KOTA KUPANG,SMP,Freelance,3,Teknologi Informasi,Pariwisata
+24,Kanda Palastri,KOTA LHOKSEUMAWE,SD,Retail dan Dagang,3,Inovasi,Pekerjaan Lepas
+25,Hasim Pertiwi,KABUPATEN DOMPU,SD,Teknik,3,Penjualan,Pelayanan
+26,Kunthara Uyainah,KOTA PALU,S1/D4,Tidak Ada Pengalaman,2,Adaptasi,Pekerjaan Lepas
+27,Luthfi Kuswandari,KABUPATEN NIAS BARAT,SMA/SMK,Tidak Ada Pengalaman,3,Mengembangkan Jaringan,Pelayanan
+28,Aisyah Astuti,KABUPATEN CIREBON,S1/D4,Retail dan Dagang,2,Teknologi Informasi,Freelance
+29,Warta Saputra,KABUPATEN KATINGAN,S1/D4,Retail dan Dagang,3,Keuangan,Pekerjaan Lepas
+30,Yulia Prasetyo,KABUPATEN BANTUL,SMA/SMK,Pekerjaan Lepas,2,Pemasaran,Pariwisata
+31,Saadat Wahyudin,KABUPATEN HULU SUNGAI SELATAN,SMA/SMK,Pariwisata,3,Mengembangkan Jaringan,Teknik
+32,Liman Wacana,KABUPATEN TAPANULI SELATAN,S1/D4,Pelayanan,2,Manajemen,Pelayanan
+33,Gandi Adriansyah,KABUPATEN NDUGA,SMP,Teknologi,1,Komunikasi,Pariwisata
+34,Rahman Pertiwi,KABUPATEN SUKABUMI,S1/D4,Retail dan Dagang,3,Komunikasi,Freelance
+35,Viktor Kuswandari,KABUPATEN BARITO SELATAN,SMP,Tidak Ada Pengalaman,1,Penjualan,Teknik
+36,Umaya Uyainah,KABUPATEN MERAUKE,SD,Teknik,3,Penjualan,Freelance
+37,Hadi Uyainah,KABUPATEN GAYO LUES,S1/D4,Pariwisata,2,Kepemimpinan,Teknologi
+38,Wisnu Santoso,KOTA GORONTALO,SMA/SMK,Pekerjaan Lepas,1,Penjualan,Tidak Ada Pengalaman
+39,Bahuwirya Anggriawan,KABUPATEN DOGIYAI,SMA/SMK,Teknologi,3,Kepemimpinan,Pelayanan
+40,Galih Halim,KABUPATEN BLORA,SD,Teknik,1,Teknologi Informasi,Retail dan Dagang
+41,Taufik Nainggolan,KABUPATEN PRINGSEWU,S1/D4,Freelance,2,Kepemimpinan,Teknologi
+42,Drajat Astuti,KABUPATEN LAMPUNG TENGAH,S1/D4,Pelayanan,2,Manajemen Risiko,Teknik
+43,Aurora Mandala,KABUPATEN ACEH TENGGARA,SD,Freelance,1,Manajemen Risiko,Retail dan Dagang
+44,Hardana Saefullah,KABUPATEN BANYUMAS,SMP,Teknik,3,Manajemen,Retail dan Dagang
+45,Cakrajiya Kuswoyo,KABUPATEN BANYUMAS,SMA/SMK,Pelayanan,1,Penjualan,Retail dan Dagang
+46,Catur Nainggolan,KABUPATEN HALMAHERA TENGAH,SMA/SMK,Pekerjaan Lepas,3,Mengembangkan Jaringan,Freelance
+47,Upik Wijayanti,KOTA BANJAR BARU,SD,Pelayanan,1,Penjualan,Pekerjaan Lepas
+48,Gantar Mangunsong,KABUPATEN KOLAKA TIMUR,S1/D4,Tidak Ada Pengalaman,1,Mengembangkan Jaringan,Pekerjaan Lepas
+49,Jati Yuliarti,KABUPATEN KARO,SMA/SMK,Freelance,2,Adaptasi,Pekerjaan Lepas
+50,Kanda Gunawan,KABUPATEN SORONG,SMA/SMK,Freelance,3,Teknologi Informasi,Freelance
+51,Nilam Mansur,KABUPATEN BANYUMAS,SMA/SMK,Teknik,3,Keuangan,Teknik
+52,Paiman Winarsih,KABUPATEN KARO,SMA/SMK,Freelance,3,Adaptasi,Tidak Ada Pengalaman
+53,Ibrani Natsir,KABUPATEN DAIRI,S1/D4,Freelance,2,Manajemen,Pelayanan
+54,Zamira Mandasari,KOTA MEDAN,SD,Pekerjaan Lepas,3,Adaptasi,Pekerjaan Lepas
+55,Rahman Hasanah,KABUPATEN RAJA AMPAT,S1/D4,Pariwisata,2,Inovasi,Teknologi
+56,Kawaca Wacana,KABUPATEN ACEH BARAT,S1/D4,Teknik,1,Pemasaran,Pekerjaan Lepas
+57,Danang Ramadan,KOTA BOGOR,SMA/SMK,Retail dan Dagang,3,Penjualan,Retail dan Dagang
+58,Jasmin Permata,KABUPATEN TULUNGAGUNG,SMP,Pekerjaan Lepas,3,Inovasi,Retail dan Dagang
+59,Lulut Utami,KOTA SOLOK,S1/D4,Teknologi,3,Penjualan,Teknologi
+60,Kajen Gunarto,KABUPATEN MALUKU TENGAH,S1/D4,Tidak Ada Pengalaman,3,Teknologi Informasi,Pekerjaan Lepas
+61,Dinda Wahyudin,KABUPATEN ACEH SELATAN,SMA/SMK,Retail dan Dagang,3,Manajemen Risiko,Retail dan Dagang
+62,Gabriella Widiastuti,KABUPATEN PESAWARAN,SMP,Freelance,1,Adaptasi,Teknologi
+63,Victoria Pranowo,KABUPATEN KAMPAR,S1/D4,Pekerjaan Lepas,3,Inovasi,Teknologi
+64,Gangsa Mayasari,KABUPATEN BONDOWOSO,SD,Retail dan Dagang,1,Keuangan,Retail dan Dagang
+65,Aditya Pangestu,KABUPATEN ACEH SELATAN,SMP,Teknik,1,Manajemen,Teknik
+66,Dalimin Hidayat,KABUPATEN MALINAU,SMA/SMK,Pekerjaan Lepas,2,Komunikasi,Pekerjaan Lepas
+67,Ihsan Hutapea,KABUPATEN TOLIKARA,SD,Teknik,3,Kepemimpinan,Teknik
+68,Rika Sihotang,KABUPATEN ACEH TIMUR,SMP,Teknologi,3,Komunikasi,Tidak Ada Pengalaman
+69,Eja Nababan,KABUPATEN PADANG LAWAS,S1/D4,Pariwisata,3,Adaptasi,Teknik
+70,Arsipatra Wacana,KABUPATEN MOROWALI,SD,Freelance,2,Mengembangkan Jaringan,Pelayanan
+71,Halima Habibi,KABUPATEN BIMA,SMA/SMK,Tidak Ada Pengalaman,3,Inovasi,Teknologi
+72,Jagaraga Wibisono,KOTA SAWAH LUNTO,SD,Tidak Ada Pengalaman,1,Adaptasi,Tidak Ada Pengalaman
+73,Mustofa Tampubolon,KABUPATEN SUKOHARJO,SMA/SMK,Pelayanan,2,Inovasi,Teknik
+74,Dirja Laksmiwati,KABUPATEN SUMEDANG,S1/D4,Teknik,3,Komunikasi,Pekerjaan Lepas
+75,Wadi Suwarno,KABUPATEN TRENGGALEK,SMP,Teknologi,2,Manajemen,Pekerjaan Lepas
+76,Prakosa Marbun,KOTA BOGOR,S1/D4,Pekerjaan Lepas,1,Penjualan,Tidak Ada Pengalaman
+77,Ganda Kuswoyo,KABUPATEN WAY KANAN,SMA/SMK,Teknologi,1,Pemasaran,Pekerjaan Lepas
+78,Intan Zulaika,KOTA SUNGAI PENUH,SMA/SMK,Pariwisata,2,Pemasaran,Pekerjaan Lepas
+79,Kambali Waskita,KOTA BANDUNG,S1/D4,Teknik,3,Manajemen,Teknologi
+80,Aslijan Pranowo,KABUPATEN KOLAKA TIMUR,SD,Pelayanan,2,Manajemen Risiko,Teknologi
+81,Cahyo Wacana,KABUPATEN MAGELANG,SD,Pariwisata,3,Kepemimpinan,Retail dan Dagang
+82,Lega Sihombing,KOTA TARAKAN,SMP,Pekerjaan Lepas,2,Kepemimpinan,Freelance
+83,Jaiman Budiman,KOTA LANGSA,S1/D4,Teknologi,3,Keuangan,Teknik
+84,Tirtayasa Rahayu,KABUPATEN KARAWANG,SD,Pariwisata,3,Kepemimpinan,Freelance
+85,Jumari Puspita,KABUPATEN POLEWALI MANDAR,SD,Teknologi,2,Inovasi,Pekerjaan Lepas
+86,Drajat Lazuardi,KABUPATEN SINTANG,SMP,Pekerjaan Lepas,3,Keuangan,Teknologi
+87,Kala Widodo,KABUPATEN NIAS UTARA,SD,Pekerjaan Lepas,2,Penjualan,Freelance
+88,Langgeng Wibowo,KOTA PADANG PANJANG,SMA/SMK,Pariwisata,3,Kepemimpinan,Freelance
+89,Nova Haryanto,KABUPATEN BARITO KUALA,SMA/SMK,Pelayanan,3,Pemasaran,Teknologi
+90,Kunthara Wulandari,KABUPATEN PURWAKARTA,S1/D4,Retail dan Dagang,3,Mengembangkan Jaringan,Freelance
+91,Danuja Nainggolan,KABUPATEN KERINCI,S1/D4,Tidak Ada Pengalaman,3,Mengembangkan Jaringan,Retail dan Dagang
+92,Cemplunk Salahudin,KABUPATEN DEIYAI,S1/D4,Pariwisata,3,Inovasi,Tidak Ada Pengalaman
+93,Nrima Tarihoran,KABUPATEN SIKKA,SMA/SMK,Retail dan Dagang,1,Manajemen Risiko,Pekerjaan Lepas
+94,Kamidin Hutapea,KABUPATEN SITUBONDO,S1/D4,Teknologi,1,Pemasaran,Pariwisata
+95,Genta Wibowo,KABUPATEN MUARO JAMBI,SMA/SMK,Tidak Ada Pengalaman,1,Mengembangkan Jaringan,Teknik
+96,Karma Nasyiah,KOTA SURABAYA,SMP,Pekerjaan Lepas,2,Manajemen,Teknologi
+97,Kambali Wibisono,KABUPATEN DOGIYAI,SMA/SMK,Tidak Ada Pengalaman,1,Kepemimpinan,Freelance
+98,Jaya Pradana,KABUPATEN NGADA,SMP,Teknik,3,Penjualan,Pariwisata
+99,Nardi Sihombing,KABUPATEN MADIUN,SMA/SMK,Retail dan Dagang,3,Keuangan,Tidak Ada Pengalaman
+100,Humaira Widodo,KABUPATEN PARIGI MOUTONG,SMP,Pekerjaan Lepas,3,Adaptasi,Retail dan Dagang
+101,Mustika Ardianto,KABUPATEN LUWU,SMP,Pekerjaan Lepas,3,Teknologi Informasi,Pelayanan
+102,Yuliana Padmasari,KABUPATEN LABUHAN BATU UTARA,S1/D4,Teknologi,2,Inovasi,Tidak Ada Pengalaman
+103,Bakiono Mahendra,KABUPATEN KEPULAUAN SELAYAR,S1/D4,Teknik,3,Inovasi,Retail dan Dagang
+104,Gantar Ramadan,KABUPATEN OGAN KOMERING ULU,SD,Retail dan Dagang,3,Adaptasi,Freelance
+105,Taufik Namaga,KABUPATEN SOLOK SELATAN,SMP,Retail dan Dagang,2,Pemasaran,Retail dan Dagang
+106,Gandi Safitri,KABUPATEN ACEH BARAT DAYA,SMA/SMK,Pekerjaan Lepas,1,Inovasi,Pelayanan
+107,Dewi Tamba,KABUPATEN LOMBOK BARAT,S1/D4,Pelayanan,2,Keuangan,Pariwisata
+108,Kiandra Wulandari,KABUPATEN LEMBATA,SD,Pelayanan,1,Manajemen,Retail dan Dagang
+109,Shania Handayani,KABUPATEN SUKAMARA,S1/D4,Teknologi,1,Manajemen Risiko,Freelance
+110,Nova Putra,KABUPATEN TEMANGGUNG,SD,Pariwisata,3,Manajemen,Teknik
+111,Keisha Iswahyudi,KOTA TANJUNG BALAI,S1/D4,Pekerjaan Lepas,3,Teknologi Informasi,Teknologi
+112,Yani Puspasari,KABUPATEN MAPPI,SD,Teknologi,3,Kepemimpinan,Pekerjaan Lepas
+113,Ade Hasanah,KABUPATEN SIJUNJUNG,SD,Pekerjaan Lepas,2,Inovasi,Freelance
+114,Setya Agustina,KABUPATEN MANOKWARI SELATAN,SMP,Teknologi,2,Penjualan,Pelayanan
+115,Mumpuni Susanti,KABUPATEN TANAH LAUT,S1/D4,Retail dan Dagang,1,Komunikasi,Pelayanan
+116,Naradi Situmorang,KABUPATEN MINAHASA TENGGARA,SMP,Pekerjaan Lepas,1,Manajemen Risiko,Pelayanan
+117,Akarsana Adriansyah,KOTA MAGELANG,S1/D4,Teknologi,1,Manajemen,Freelance
+118,Bakti Suwarno,KABUPATEN ALOR,S1/D4,Teknik,3,Adaptasi,Tidak Ada Pengalaman
+119,Ophelia Waluyo,KOTA TUAL,SMA/SMK,Pelayanan,2,Mengembangkan Jaringan,Retail dan Dagang
+120,Langgeng Dongoran,KABUPATEN TELUK BINTUNI,SMA/SMK,Freelance,1,Kepemimpinan,Pariwisata
+121,Hasta Laksmiwati,KABUPATEN SIAU TAGULANDANG BIARO,SD,Retail dan Dagang,1,Mengembangkan Jaringan,Freelance
+122,Akarsana Irawan,KABUPATEN PIDIE,SD,Freelance,1,Penjualan,Pekerjaan Lepas
+123,Salimah Namaga,KABUPATEN KUNINGAN,S1/D4,Pelayanan,2,Kepemimpinan,Pekerjaan Lepas
+124,Laksana Laksita,KOTA PARIAMAN,SMP,Tidak Ada Pengalaman,2,Keuangan,Pekerjaan Lepas
+125,Legawa Sihotang,KABUPATEN KEPULAUAN YAPEN,SMA/SMK,Teknik,3,Penjualan,Tidak Ada Pengalaman
+126,Salimah Hardiansyah,KOTA SUBULUSSALAM,SMA/SMK,Pariwisata,1,Inovasi,Retail dan Dagang
+127,Siti Mayasari,KABUPATEN NIAS SELATAN,SMA/SMK,Freelance,1,Keuangan,Pariwisata
+128,Empluk Astuti,KOTA TEBING TINGGI,SD,Freelance,2,Inovasi,Tidak Ada Pengalaman
+129,Leo Pratiwi,KABUPATEN JOMBANG,S1/D4,Retail dan Dagang,2,Penjualan,Tidak Ada Pengalaman
+130,Emas Mangunsong,KOTA TASIKMALAYA,SMA/SMK,Pariwisata,3,Mengembangkan Jaringan,Pekerjaan Lepas
+131,Damu Wulandari,KABUPATEN KARAWANG,SD,Freelance,2,Penjualan,Freelance
+132,Damu Sinaga,KOTA BANJAR BARU,SMA/SMK,Tidak Ada Pengalaman,2,Inovasi,Teknologi
+133,Margana Nurdiyanti,KABUPATEN SUMBA BARAT DAYA,SMA/SMK,Teknologi,3,Kepemimpinan,Retail dan Dagang
+134,Karya Pratiwi,KABUPATEN LANGKAT,SMA/SMK,Freelance,1,Inovasi,Freelance
+135,Ibrahim Wijayanti,KABUPATEN PEMALANG,SD,Freelance,1,Kepemimpinan,Tidak Ada Pengalaman
+136,Vinsen Januar,KABUPATEN HULU SUNGAI UTARA,SD,Teknologi,3,Teknologi Informasi,Pariwisata
+137,Langgeng Hutasoit,KABUPATEN SERUYAN,SMA/SMK,Freelance,1,Manajemen Risiko,Pariwisata
+138,Nardi Winarsih,KABUPATEN WAJO,SMP,Freelance,3,Manajemen Risiko,Teknik
+139,Usyi Hardiansyah,KABUPATEN SIKKA,SMP,Tidak Ada Pengalaman,2,Manajemen,Pelayanan
+140,Jail Purwanti,KABUPATEN KERINCI,SD,Tidak Ada Pengalaman,3,Komunikasi,Pekerjaan Lepas
+141,Bakijan Aryani,KABUPATEN MAMUJU UTARA,SMP,Teknik,2,Teknologi Informasi,Tidak Ada Pengalaman
+142,Kairav Pangestu,KABUPATEN PUNCAK JAYA,S1/D4,Teknologi,3,Penjualan,Freelance
+143,Almira Salahudin,KABUPATEN PENUKAL ABAB LEMATANG ILIR,S1/D4,Teknologi,2,Teknologi Informasi,Pelayanan
+144,Lasmono Hutasoit,KABUPATEN BEKASI,SD,Pelayanan,2,Mengembangkan Jaringan,Freelance
+145,Mala Hutapea,KABUPATEN SIDOARJO,S1/D4,Retail dan Dagang,1,Adaptasi,Teknik
+146,Rika Permadi,KABUPATEN S I A K,SMA/SMK,Teknologi,1,Inovasi,Pekerjaan Lepas
+147,Galuh Kuswandari,KOTA GORONTALO,SMP,Pariwisata,1,Inovasi,Teknologi
+148,Danang Rahimah,KABUPATEN NUNUKAN,SMP,Pekerjaan Lepas,3,Manajemen,Pekerjaan Lepas
+149,Latika Damanik,KOTA MAKASSAR,SMP,Pekerjaan Lepas,2,Adaptasi,Tidak Ada Pengalaman
+150,Warsita Nurdiyanti,KOTA TOMOHON,SMP,Tidak Ada Pengalaman,1,Mengembangkan Jaringan,Teknik
+151,Cakrabuana Permata,KABUPATEN LUWU UTARA,SMA/SMK,Pariwisata,3,Teknologi Informasi,Tidak Ada Pengalaman
+152,Zizi Tamba,KOTA MOJOKERTO,SMA/SMK,Pekerjaan Lepas,1,Pemasaran,Tidak Ada Pengalaman
+153,Gandi Suartini,KABUPATEN BOALEMO,SD,Retail dan Dagang,2,Teknologi Informasi,Teknik
+154,Lamar Pratiwi,KABUPATEN KAIMANA,SMP,Tidak Ada Pengalaman,1,Komunikasi,Pelayanan
+155,Bakda Rahmawati,KABUPATEN KATINGAN,SD,Freelance,1,Komunikasi,Retail dan Dagang
+156,Siska Prasetyo,KABUPATEN SEKADAU,SMP,Retail dan Dagang,1,Inovasi,Teknologi
+157,Opung Handayani,KOTA KOTAMOBAGU,S1/D4,Freelance,3,Teknologi Informasi,Pelayanan
+158,Ika Astuti,KOTA PEKALONGAN,SMP,Pelayanan,3,Manajemen Risiko,Freelance
+159,Jayeng Padmasari,KABUPATEN DEMAK,S1/D4,Pariwisata,3,Mengembangkan Jaringan,Pelayanan
+160,Pranawa Yuliarti,KABUPATEN BANGKA,SMA/SMK,Pekerjaan Lepas,1,Adaptasi,Retail dan Dagang
+161,Raditya Budiman,KABUPATEN SOLOK SELATAN,S1/D4,Teknologi,3,Manajemen,Teknologi
+162,Jatmiko Andriani,KABUPATEN KARANG ASEM,SMA/SMK,Teknologi,2,Manajemen,Pelayanan
+163,Jono Sihombing,KABUPATEN INTAN JAYA,SMA/SMK,Pekerjaan Lepas,1,Keuangan,Retail dan Dagang
+164,Cengkal Adriansyah,KABUPATEN TUBAN,S1/D4,Pekerjaan Lepas,1,Manajemen,Freelance
+165,Aurora Zulkarnain,KABUPATEN KLATEN,SMP,Pekerjaan Lepas,1,Manajemen Risiko,Retail dan Dagang
+166,Simon Jailani,KABUPATEN TAPANULI TENGAH,SD,Teknologi,3,Pemasaran,Tidak Ada Pengalaman
+167,Qori Safitri,KABUPATEN MAJALENGKA,S1/D4,Pariwisata,1,Penjualan,Pelayanan
+168,Kemba Prasasta,KABUPATEN BOYOLALI,S1/D4,Pelayanan,3,Manajemen Risiko,Pelayanan
+169,Empluk Pradana,KABUPATEN TEMANGGUNG,SD,Teknologi,1,Keuangan,Teknik
+170,Hasta Damanik,KABUPATEN NDUGA,S1/D4,Tidak Ada Pengalaman,3,Manajemen Risiko,Freelance
+171,Eko Nababan,KABUPATEN SUMBAWA BARAT,S1/D4,Tidak Ada Pengalaman,3,Manajemen Risiko,Freelance
+172,Jaga Firgantoro,KABUPATEN MAPPI,SMA/SMK,Retail dan Dagang,2,Teknologi Informasi,Pekerjaan Lepas
+173,Makuta Hutasoit,KABUPATEN JOMBANG,SD,Teknik,3,Kepemimpinan,Pariwisata
+174,Jaka Usada,KABUPATEN MINAHASA,SMP,Teknik,3,Manajemen,Tidak Ada Pengalaman
+175,Bakda Riyanti,KABUPATEN BADUNG,SD,Teknologi,1,Pemasaran,Teknik
+176,Salimah Habibi,KOTA KENDARI,SMA/SMK,Freelance,2,Manajemen Risiko,Tidak Ada Pengalaman
+177,Cakrajiya Permadi,KABUPATEN KAIMANA,SD,Pekerjaan Lepas,3,Komunikasi,Pelayanan
+178,Banawa Waluyo,KABUPATEN PAMEKASAN,SMP,Pariwisata,3,Komunikasi,Freelance
+179,Prabowo Safitri,KABUPATEN MUSI RAWAS,SMP,Pekerjaan Lepas,1,Manajemen Risiko,Teknik
+180,Diana Narpati,KOTA BANJAR,S1/D4,Freelance,2,Adaptasi,Pariwisata
+181,Gilang Utama,KABUPATEN PELALAWAN,SD,Pelayanan,2,Mengembangkan Jaringan,Pelayanan
+182,Umay Pradana,KABUPATEN ACEH BESAR,S1/D4,Teknik,3,Mengembangkan Jaringan,Teknik
+183,Uda Haryanti,KOTA DEPOK,SMP,Retail dan Dagang,1,Teknologi Informasi,Freelance
+184,Makara Putra,KABUPATEN WAY KANAN,S1/D4,Teknologi,1,Manajemen Risiko,Teknik
+185,Rahayu Budiman,KABUPATEN TASIKMALAYA,SD,Pekerjaan Lepas,1,Manajemen Risiko,Tidak Ada Pengalaman
+186,Utama Nasyidah,KABUPATEN BATU BARA,SMP,Pariwisata,3,Kepemimpinan,Pekerjaan Lepas
+187,Devi Kurniawan,KABUPATEN HALMAHERA TENGAH,SMP,Freelance,3,Komunikasi,Retail dan Dagang
+188,Danu Pratiwi,KABUPATEN ACEH JAYA,SMA/SMK,Pekerjaan Lepas,1,Keuangan,Retail dan Dagang
+189,Siska Kuswoyo,KABUPATEN BANTAENG,SMA/SMK,Pekerjaan Lepas,3,Komunikasi,Teknik
+190,Rafi Natsir,KABUPATEN BARITO KUALA,SD,Pekerjaan Lepas,1,Komunikasi,Freelance
+191,Aris Mandala,KABUPATEN LAMPUNG BARAT,SD,Pariwisata,2,Komunikasi,Pekerjaan Lepas
+192,Kenzie Iswahyudi,KABUPATEN KAPUAS HULU,S1/D4,Pelayanan,3,Adaptasi,Tidak Ada Pengalaman
+193,Zalindra Fujiati,KABUPATEN DOMPU,SD,Pelayanan,3,Teknologi Informasi,Pekerjaan Lepas
+194,Pangeran Hidayat,KABUPATEN MAMBERAMO TENGAH,SD,Pekerjaan Lepas,1,Komunikasi,Teknologi
+195,Farhunnisa Pradana,KOTA PADANG,SD,Pekerjaan Lepas,3,Teknologi Informasi,Tidak Ada Pengalaman
+196,Sakti Permadi,KABUPATEN LIMA PULUH KOTA,SMP,Pekerjaan Lepas,2,Adaptasi,Freelance
+197,Mala Haryanti,KABUPATEN KAIMANA,S1/D4,Retail dan Dagang,2,Manajemen,Freelance
+198,Ajimat Latupono,KABUPATEN SIKKA,SMA/SMK,Pelayanan,3,Pemasaran,Teknologi
+199,Malik Haryanto,KABUPATEN CIAMIS,SD,Pelayanan,1,Mengembangkan Jaringan,Retail dan Dagang
+200,Luthfi Pranowo,KABUPATEN KEEROM,SMP,Tidak Ada Pengalaman,2,Mengembangkan Jaringan,Teknik
+201,Bella Winarno,KABUPATEN BANGGAI LAUT,SD,Teknik,1,Manajemen,Teknik
+202,Prasetya Prabowo,KABUPATEN KAYONG UTARA,SMP,Teknik,1,Kepemimpinan,Pelayanan
+203,Warta Budiyanto,KABUPATEN KEPULAUAN ANAMBAS,S1/D4,Teknologi,1,Mengembangkan Jaringan,Teknik
+204,Ibun Lailasari,KABUPATEN ROKAN HULU,SMP,Pariwisata,1,Inovasi,Retail dan Dagang
+205,Cakrabuana Nugroho,KOTA BANDAR LAMPUNG,SMA/SMK,Pariwisata,1,Teknologi Informasi,Tidak Ada Pengalaman
+206,Prayoga Nugroho,KABUPATEN KEEROM,SMA/SMK,Teknik,1,Adaptasi,Teknologi
+207,Mustofa Padmasari,KABUPATEN PANIAI,SMA/SMK,Tidak Ada Pengalaman,3,Penjualan,Teknik
+208,Tirta Iswahyudi,KABUPATEN BANJAR,SMA/SMK,Tidak Ada Pengalaman,2,Manajemen,Pekerjaan Lepas
+209,Opung Hassanah,KOTA TANGERANG,SD,Teknologi,3,Manajemen,Pelayanan
+210,Maimunah Widiastuti,KABUPATEN JEMBER,SMP,Freelance,2,Penjualan,Teknologi
+211,Harjaya Lailasari,KABUPATEN BELITUNG,S1/D4,Pekerjaan Lepas,2,Penjualan,Retail dan Dagang
+212,Slamet Rahmawati,KABUPATEN KEPULAUAN MERANTI,S1/D4,Freelance,1,Mengembangkan Jaringan,Tidak Ada Pengalaman
+213,Rosman Astuti,KABUPATEN DOGIYAI,SMA/SMK,Retail dan Dagang,3,Pemasaran,Teknologi
+214,Kani Nasyiah,KABUPATEN ACEH BESAR,SMP,Freelance,1,Mengembangkan Jaringan,Retail dan Dagang
+215,Cindy Yuliarti,KABUPATEN CIANJUR,SD,Pekerjaan Lepas,3,Teknologi Informasi,Teknik
+216,Wakiman Saptono,KABUPATEN BADUNG,SMP,Pelayanan,1,Teknologi Informasi,Teknik
+217,Luis Mandasari,KABUPATEN SEMARANG,SMP,Freelance,3,Teknologi Informasi,Pelayanan
+218,Saadat Hutagalung,KOTA PADANGSIDIMPUAN,S1/D4,Tidak Ada Pengalaman,2,Pemasaran,Tidak Ada Pengalaman
+219,Kasim Rahimah,KABUPATEN SLEMAN,SMA/SMK,Retail dan Dagang,3,Manajemen,Tidak Ada Pengalaman
+220,Dimas Hutagalung,KABUPATEN ALOR,SMA/SMK,Teknologi,3,Teknologi Informasi,Pariwisata
+221,Karsa Hasanah,KOTA MALANG,S1/D4,Pelayanan,3,Teknologi Informasi,Pariwisata
+222,Pranata Kusmawati,KABUPATEN ROTE NDAO,SD,Pelayanan,2,Teknologi Informasi,Teknologi
+223,Lalita Putra,KABUPATEN ACEH BARAT,SMP,Pekerjaan Lepas,3,Penjualan,Teknik
+224,Vivi Yulianti,KABUPATEN SAMOSIR,SMA/SMK,Pelayanan,2,Mengembangkan Jaringan,Teknologi
+225,Dartono Mahendra,KABUPATEN PADANG LAWAS UTARA,SMA/SMK,Teknologi,3,Manajemen Risiko,Pelayanan
+226,Leo Rahmawati,KOTA D U M A I,SMP,Retail dan Dagang,3,Kepemimpinan,Freelance
+227,Darmaji Wulandari,KABUPATEN SIMALUNGUN,SMP,Teknik,3,Keuangan,Pekerjaan Lepas
+228,Wardi Yuliarti,KABUPATEN WONOSOBO,SMP,Retail dan Dagang,3,Adaptasi,Teknik
+229,Caket Uyainah,KABUPATEN MAJENE,S1/D4,Pariwisata,2,Manajemen Risiko,Pekerjaan Lepas
+230,Intan Sitorus,KABUPATEN BONE BOLANGO,SMA/SMK,Pariwisata,2,Teknologi Informasi,Freelance
+231,Ozy Wulandari,KABUPATEN MERAUKE,S1/D4,Freelance,2,Mengembangkan Jaringan,Pariwisata
+232,Ilsa Tarihoran,KABUPATEN KERINCI,SMA/SMK,Tidak Ada Pengalaman,2,Teknologi Informasi,Tidak Ada Pengalaman
+233,Prayitna Simanjuntak,KABUPATEN HULU SUNGAI TENGAH,S1/D4,Retail dan Dagang,3,Inovasi,Retail dan Dagang
+234,Karma Padmasari,KABUPATEN BUTON TENGAH,SD,Pelayanan,1,Mengembangkan Jaringan,Freelance
+235,Sabar Suartini,KABUPATEN MANOKWARI,S1/D4,Tidak Ada Pengalaman,3,Mengembangkan Jaringan,Pariwisata
+236,Cici Gunawan,KABUPATEN HALMAHERA TIMUR,S1/D4,Teknik,3,Teknologi Informasi,Teknologi
+237,Hafshah Setiawan,KOTA MAKASSAR,SMP,Freelance,3,Teknologi Informasi,Freelance
+238,Lulut Haryanto,KABUPATEN MAGETAN,SD,Pariwisata,1,Kepemimpinan,Tidak Ada Pengalaman
+239,Restu Saefullah,KOTA SIBOLGA,SD,Freelance,1,Manajemen Risiko,Pariwisata
+240,Jabal Permata,KABUPATEN SAMOSIR,S1/D4,Pekerjaan Lepas,3,Manajemen,Teknik
+241,Estiawan Mansur,KOTA TUAL,S1/D4,Teknologi,3,Adaptasi,Retail dan Dagang
+242,Tari Permadi,KABUPATEN KEPULAUAN ARU,SMP,Tidak Ada Pengalaman,3,Adaptasi,Freelance
+243,Ega Pranowo,KOTA SALATIGA,SMP,Freelance,3,Pemasaran,Teknik
+244,Fitriani Fujiati,KABUPATEN KOLAKA,SMA/SMK,Pelayanan,2,Kepemimpinan,Pelayanan
+245,Betania Yuliarti,KABUPATEN KONAWE KEPULAUAN,SMA/SMK,Pelayanan,3,Adaptasi,Pariwisata
+246,Wardaya Ramadan,KABUPATEN BENGKULU UTARA,SD,Teknologi,3,Adaptasi,Teknologi
+247,Limar Kurniawan,KABUPATEN MAMUJU,SMA/SMK,Pariwisata,1,Inovasi,Tidak Ada Pengalaman
+248,Kiandra Rajasa,KABUPATEN MUSI RAWAS UTARA,SD,Teknik,3,Penjualan,Pelayanan
+249,Pranawa Gunarto,KABUPATEN BELITUNG TIMUR,SMA/SMK,Teknologi,2,Teknologi Informasi,Teknologi
+250,Cawisadi Mansur,KOTA LUBUKLINGGAU,SD,Tidak Ada Pengalaman,3,Penjualan,Teknik
+251,Vivi Tampubolon,KOTA SOLOK,SMP,Pekerjaan Lepas,2,Kepemimpinan,Tidak Ada Pengalaman
+252,Harjo Wahyudin,KABUPATEN JEMBRANA,S1/D4,Freelance,2,Inovasi,Freelance
+253,Najam Wibisono,KABUPATEN PULAU TALIABU,SMA/SMK,Teknik,1,Mengembangkan Jaringan,Retail dan Dagang
+254,Bakijan Sinaga,KABUPATEN KAUR,SMP,Freelance,3,Manajemen,Pekerjaan Lepas
+255,Wira Rajasa,KOTA PEKANBARU,SMP,Teknik,1,Mengembangkan Jaringan,Pekerjaan Lepas
+256,Baktianto Mustofa,KABUPATEN BOMBANA,SD,Pariwisata,1,Adaptasi,Tidak Ada Pengalaman
+257,Viman Megantara,KABUPATEN LAMONGAN,S1/D4,Teknologi,1,Adaptasi,Pelayanan
+258,Ilyas Mangunsong,KABUPATEN BANGKA BARAT,SD,Teknologi,2,Penjualan,Pekerjaan Lepas
+259,Gatot Hakim,KABUPATEN SIJUNJUNG,S1/D4,Tidak Ada Pengalaman,3,Komunikasi,Teknologi
+260,Nadia Melani,KABUPATEN BOLAANG MONGONDOW TIMUR,SD,Freelance,2,Pemasaran,Tidak Ada Pengalaman
+261,Dirja Rajasa,KABUPATEN LAMPUNG UTARA,SD,Teknologi,3,Pemasaran,Pariwisata
+262,Ami Yuniar,KABUPATEN BANYUWANGI,SD,Freelance,3,Komunikasi,Pekerjaan Lepas
+263,Daru Hutasoit,KABUPATEN JEMBRANA,SMA/SMK,Teknologi,3,Adaptasi,Teknologi
+264,Bajragin Wacana,KABUPATEN KUTAI TIMUR,SMP,Pariwisata,3,Manajemen,Pekerjaan Lepas
+265,Lalita Nugroho,KABUPATEN LAMANDAU,SMP,Retail dan Dagang,3,Mengembangkan Jaringan,Teknologi
+266,Alika Marpaung,KABUPATEN KUNINGAN,S1/D4,Teknik,2,Keuangan,Pekerjaan Lepas
+267,Ghaliyati Nashiruddin,KOTA PAYAKUMBUH,SMP,Freelance,3,Adaptasi,Teknologi
+268,Prayitna Kusumo,KABUPATEN PEMALANG,SD,Retail dan Dagang,2,Komunikasi,Retail dan Dagang
+269,Darimin Napitupulu,KABUPATEN OGAN ILIR,SD,Retail dan Dagang,2,Adaptasi,Teknik
+270,Nyana Nashiruddin,KABUPATEN PASAMAN BARAT,SD,Freelance,1,Teknologi Informasi,Pekerjaan Lepas
+271,Jayadi Situmorang,KABUPATEN JAYAWIJAYA,SMA/SMK,Teknik,2,Teknologi Informasi,Pekerjaan Lepas
+272,Soleh Nainggolan,KOTA AMBON,S1/D4,Teknik,1,Komunikasi,Tidak Ada Pengalaman
+273,Harjasa Latupono,KOTA PALU,S1/D4,Pekerjaan Lepas,3,Keuangan,Pekerjaan Lepas
+274,Dimaz Yolanda,KABUPATEN RAJA AMPAT,S1/D4,Freelance,3,Inovasi,Retail dan Dagang
+275,Rudi Wastuti,KABUPATEN TULANGBAWANG,SMA/SMK,Teknik,2,Adaptasi,Pekerjaan Lepas
+276,Lalita Hutasoit,KABUPATEN KARIMUN,SD,Pariwisata,1,Adaptasi,Pekerjaan Lepas
+277,Puji Palastri,KABUPATEN MAGETAN,SMA/SMK,Freelance,1,Teknologi Informasi,Pekerjaan Lepas
+278,Halim Rajata,KABUPATEN KAYONG UTARA,SD,Pariwisata,2,Adaptasi,Pelayanan
+279,Prabu Yulianti,KOTA BITUNG,SMA/SMK,Freelance,2,Adaptasi,Pelayanan
+280,Victoria Napitupulu,KABUPATEN OGAN KOMERING ULU,SMP,Tidak Ada Pengalaman,1,Keuangan,Freelance
+281,Fitriani Yolanda,KABUPATEN TAPANULI SELATAN,SD,Pekerjaan Lepas,2,Pemasaran,Pariwisata
+282,Zulfa Pangestu,KABUPATEN KARAWANG,SD,Freelance,2,Kepemimpinan,Tidak Ada Pengalaman
+283,Darimin Kusmawati,KABUPATEN NAGEKEO,SMA/SMK,Freelance,2,Mengembangkan Jaringan,Pariwisata
+284,Ayu Maryati,KABUPATEN PANDEGLANG,SD,Tidak Ada Pengalaman,3,Pemasaran,Pariwisata
+285,Ratih Santoso,KABUPATEN HALMAHERA SELATAN,SMA/SMK,Tidak Ada Pengalaman,3,Teknologi Informasi,Tidak Ada Pengalaman
+286,Rachel Pradipta,KABUPATEN BULUNGAN,SD,Freelance,2,Komunikasi,Pekerjaan Lepas
+287,Maida Tamba,KABUPATEN SERDANG BEDAGAI,SMA/SMK,Tidak Ada Pengalaman,2,Mengembangkan Jaringan,Teknik
+288,Silvia Riyanti,KOTA KOTAMOBAGU,S1/D4,Pelayanan,1,Komunikasi,Pariwisata
+289,Saka Januar,KABUPATEN LUWU UTARA,SMA/SMK,Pelayanan,3,Inovasi,Retail dan Dagang
+290,Lalita Situmorang,KABUPATEN PINRANG,SMP,Teknologi,3,Manajemen,Pariwisata
+291,Liman Suwarno,KOTA BOGOR,S1/D4,Pelayanan,1,Kepemimpinan,Tidak Ada Pengalaman
+292,Halima Putra,KABUPATEN NATUNA,S1/D4,Teknologi,2,Teknologi Informasi,Pekerjaan Lepas
+293,Diana Lazuardi,KABUPATEN MINAHASA TENGGARA,S1/D4,Teknologi,1,Manajemen Risiko,Freelance
+294,Abyasa Uwais,KABUPATEN KEPULAUAN MENTAWAI,SMA/SMK,Pekerjaan Lepas,3,Penjualan,Pariwisata
+295,Nilam Tamba,KABUPATEN SUKABUMI,S1/D4,Teknik,3,Inovasi,Pariwisata
+296,Carub Firmansyah,KABUPATEN KOTAWARINGIN TIMUR,SMA/SMK,Pariwisata,2,Teknologi Informasi,Tidak Ada Pengalaman
+297,Olga Waskita,KABUPATEN MANOKWARI,S1/D4,Pelayanan,3,Penjualan,Tidak Ada Pengalaman
+298,Usman Halimah,KABUPATEN KEDIRI,S1/D4,Retail dan Dagang,3,Kepemimpinan,Retail dan Dagang
+299,Waluyo Rahimah,KABUPATEN TOLI-TOLI,SMP,Tidak Ada Pengalaman,3,Pemasaran,Pelayanan
+300,Mursita Andriani,KABUPATEN PANDEGLANG,SMP,Retail dan Dagang,1,Teknologi Informasi,Pelayanan
+301,Zulaikha Najmudin,KABUPATEN MOROWALI UTARA,SMA/SMK,Pelayanan,3,Teknologi Informasi,Teknologi
+302,Hana Winarsih,KABUPATEN TAPIN,SMP,Pelayanan,3,Adaptasi,Freelance
+303,Jabal Iswahyudi,KABUPATEN DAIRI,SMA/SMK,Tidak Ada Pengalaman,2,Keuangan,Pelayanan
+304,Sakti Mardhiyah,KABUPATEN SOLOK,S1/D4,Tidak Ada Pengalaman,1,Mengembangkan Jaringan,Tidak Ada Pengalaman
+305,Daliman Hassanah,KOTA TASIKMALAYA,S1/D4,Teknologi,2,Komunikasi,Teknik
+306,Galuh Putra,KOTA TERNATE,SMP,Retail dan Dagang,2,Manajemen,Pariwisata
+307,Jayadi Putra,KOTA B A T A M,SMP,Tidak Ada Pengalaman,1,Mengembangkan Jaringan,Retail dan Dagang
+308,Ajiman Lestari,KABUPATEN SIGI,SD,Pekerjaan Lepas,1,Inovasi,Teknologi
+309,Garang Pratama,KABUPATEN WAJO,SMP,Pelayanan,3,Inovasi,Tidak Ada Pengalaman
+310,Baktianto Iswahyudi,KOTA MALANG,SMP,Pelayanan,2,Teknologi Informasi,Teknologi
+311,Embuh Saragih,KABUPATEN WONOSOBO,SMA/SMK,Tidak Ada Pengalaman,2,Kepemimpinan,Teknik
+312,Rina Anggraini,KOTA BINJAI,SMP,Pelayanan,1,Adaptasi,Teknologi
+313,Sakti Wijaya,KOTA BANJAR,SMP,Teknik,1,Keuangan,Teknik
+314,Eli Uwais,KABUPATEN MESUJI,SMA/SMK,Freelance,1,Manajemen,Retail dan Dagang
+315,Zamira Napitupulu,KABUPATEN LAMPUNG SELATAN,SD,Tidak Ada Pengalaman,2,Inovasi,Pelayanan
+316,Martani Lestari,KABUPATEN SAMBAS,S1/D4,Retail dan Dagang,1,Teknologi Informasi,Teknik
+317,Gatot Prasetyo,KABUPATEN SEKADAU,SMA/SMK,Freelance,3,Adaptasi,Pelayanan
+318,Laila Habibi,KOTA PALEMBANG,SMP,Retail dan Dagang,3,Inovasi,Pariwisata
+319,Azalea Ramadan,KABUPATEN KOTAWARINGIN TIMUR,SMP,Tidak Ada Pengalaman,2,Teknologi Informasi,Freelance
+320,Olivia Wibowo,KABUPATEN SARMI,SD,Pelayanan,3,Manajemen Risiko,Teknik
+321,Juli Thamrin,KABUPATEN BANYUWANGI,S1/D4,Pekerjaan Lepas,3,Keuangan,Freelance
+322,Uli Saragih,KABUPATEN DEMAK,SMP,Pariwisata,3,Adaptasi,Pelayanan
+323,Sabar Lazuardi,KABUPATEN MUNA,SD,Freelance,2,Teknologi Informasi,Tidak Ada Pengalaman
+324,Darmaji Tamba,KOTA SUNGAI PENUH,SMA/SMK,Freelance,2,Manajemen,Freelance
+325,Vera Sitompul,KABUPATEN GAYO LUES,SMA/SMK,Freelance,2,Komunikasi,Teknologi
+326,Wawan Zulkarnain,KABUPATEN KOLAKA TIMUR,SD,Retail dan Dagang,3,Manajemen Risiko,Pekerjaan Lepas
+327,Ciaobella Simanjuntak,KOTA BANJARMASIN,SMP,Teknik,2,Teknologi Informasi,Pekerjaan Lepas
+328,Amelia Wasita,KABUPATEN MAROS,SD,Pekerjaan Lepas,3,Manajemen,Teknologi
+329,Gandewa Pratama,KABUPATEN NATUNA,SMA/SMK,Tidak Ada Pengalaman,3,Pemasaran,Teknologi
+330,Darmana Sihombing,KABUPATEN HALMAHERA BARAT,SD,Teknik,1,Inovasi,Freelance
+331,Elvin Wasita,KABUPATEN PURBALINGGA,S1/D4,Pelayanan,3,Manajemen,Pekerjaan Lepas
+332,Damu Hasanah,KABUPATEN MUSI RAWAS UTARA,S1/D4,Teknik,3,Manajemen,Pelayanan
+333,Anita Mansur,KABUPATEN TAPIN,SMA/SMK,Pariwisata,1,Kepemimpinan,Pariwisata
+334,Garda Pradana,KABUPATEN LOMBOK BARAT,SMP,Teknik,1,Keuangan,Teknik
+335,Silvia Wacana,KOTA MEDAN,SMA/SMK,Teknik,2,Mengembangkan Jaringan,Teknologi
+336,Prabawa Thamrin,KABUPATEN NATUNA,SMA/SMK,Pelayanan,2,Teknologi Informasi,Pariwisata
+337,Vivi Suartini,KABUPATEN NUNUKAN,SMA/SMK,Retail dan Dagang,2,Teknologi Informasi,Teknologi
+338,Heru Damanik,KOTA MEDAN,SMP,Pariwisata,1,Penjualan,Freelance
+339,Gilang Wibowo,KABUPATEN KEPULAUAN MERANTI,SD,Tidak Ada Pengalaman,2,Manajemen Risiko,Tidak Ada Pengalaman
+340,Prasetyo Irawan,KABUPATEN DONGGALA,SD,Pekerjaan Lepas,2,Kepemimpinan,Pariwisata
+341,Adika Nurdiyanti,KOTA BALIKPAPAN,SMP,Teknik,2,Manajemen,Teknologi
+342,Saadat Kusmawati,KABUPATEN HALMAHERA TIMUR,SMA/SMK,Pariwisata,2,Penjualan,Pariwisata
+343,Cawisadi Mardhiyah,KABUPATEN DELI SERDANG,SMP,Teknik,1,Teknologi Informasi,Pekerjaan Lepas
+344,Dadap Mahendra,KABUPATEN SAMPANG,S1/D4,Pariwisata,3,Komunikasi,Pekerjaan Lepas
+345,Tantri Uyainah,KABUPATEN REMBANG,SD,Pekerjaan Lepas,1,Kepemimpinan,Teknologi
+346,Teddy Puspita,KABUPATEN BOJONEGORO,SD,Pelayanan,1,Penjualan,Pekerjaan Lepas
+347,Tirtayasa Hariyah,KOTA SURAKARTA,SMA/SMK,Teknik,2,Adaptasi,Pelayanan
+348,Hasna Firmansyah,KABUPATEN WAY KANAN,SD,Pelayanan,1,Teknologi Informasi,Tidak Ada Pengalaman
+349,Daniswara Safitri,KABUPATEN TAMBRAUW,SMA/SMK,Pariwisata,1,Teknologi Informasi,Pariwisata
+350,Simon Thamrin,KABUPATEN RAJA AMPAT,SD,Teknik,2,Kepemimpinan,Teknologi
+351,Drajat Pertiwi,KOTA SORONG,S1/D4,Tidak Ada Pengalaman,3,Adaptasi,Tidak Ada Pengalaman
+352,Rizki Winarno,KABUPATEN ENREKANG,SMA/SMK,Tidak Ada Pengalaman,1,Komunikasi,Retail dan Dagang
+353,Oskar Hariyah,KABUPATEN BEKASI,SMP,Pariwisata,3,Komunikasi,Pekerjaan Lepas
+354,Zulaikha Prayoga,KABUPATEN DELI SERDANG,SMA/SMK,Teknologi,2,Manajemen Risiko,Teknik
+355,Virman Siregar,KABUPATEN BIAK NUMFOR,SMP,Freelance,2,Inovasi,Pariwisata
+356,Jasmani Maryadi,KABUPATEN PEKALONGAN,S1/D4,Tidak Ada Pengalaman,3,Komunikasi,Freelance
+357,Cahyono Rahimah,KABUPATEN BENGKAYANG,S1/D4,Freelance,3,Komunikasi,Pekerjaan Lepas
+358,Mitra Saptono,KABUPATEN SUMENEP,SMA/SMK,Pelayanan,1,Manajemen,Teknik
+359,Prayogo Yuniar,KABUPATEN NIAS,SMA/SMK,Freelance,2,Mengembangkan Jaringan,Teknologi
+360,Nardi Purnawati,KABUPATEN ROKAN HILIR,S1/D4,Pelayanan,1,Teknologi Informasi,Retail dan Dagang
+361,Kala Sihombing,KABUPATEN SELUMA,SMP,Pariwisata,1,Pemasaran,Teknologi
+362,Ayu Utami,KABUPATEN PURWOREJO,SMA/SMK,Teknologi,2,Komunikasi,Retail dan Dagang
+363,Surya Nuraini,KABUPATEN OGAN KOMERING ULU,SMA/SMK,Teknologi,2,Mengembangkan Jaringan,Pariwisata
+364,Ajimat Halim,KABUPATEN LABUHAN BATU UTARA,SD,Pelayanan,3,Penjualan,Pariwisata
+365,Vera Sitompul,KOTA PROBOLINGGO,SD,Retail dan Dagang,1,Penjualan,Teknik
+366,Natalia Suryatmi,KABUPATEN NIAS UTARA,SD,Tidak Ada Pengalaman,2,Manajemen Risiko,Pelayanan
+367,Bagas Megantara,KABUPATEN PESAWARAN,S1/D4,Teknologi,2,Manajemen Risiko,Pelayanan
+368,Rahmi Nababan,KABUPATEN KUTAI KARTANEGARA,S1/D4,Freelance,2,Pemasaran,Pelayanan
+369,Rusman Wibowo,KABUPATEN PIDIE,S1/D4,Freelance,1,Pemasaran,Pekerjaan Lepas
+370,Lamar Uyainah,KOTA PAYAKUMBUH,S1/D4,Teknologi,1,Pemasaran,Freelance
+371,Cahya Yuniar,KABUPATEN BANYUMAS,SMP,Pekerjaan Lepas,3,Manajemen,Retail dan Dagang
+372,Raden Maheswara,KOTA METRO,SMA/SMK,Pekerjaan Lepas,3,Adaptasi,Retail dan Dagang
+373,Paiman Maryati,KABUPATEN SLEMAN,S1/D4,Pariwisata,3,Adaptasi,Freelance
+374,Purwa Astuti,KABUPATEN INDRAMAYU,SD,Freelance,2,Manajemen Risiko,Teknik
+375,Perkasa Anggriawan,KOTA JAKARTA BARAT,S1/D4,Pelayanan,2,Mengembangkan Jaringan,Teknik
+376,Jail Astuti,KABUPATEN TELUK WONDAMA,SD,Tidak Ada Pengalaman,1,Teknologi Informasi,Pelayanan
+377,Bakiadi Hutapea,KOTA TEBING TINGGI,SD,Pekerjaan Lepas,1,Manajemen,Teknik
+378,Prakosa Puspasari,KABUPATEN PROBOLINGGO,SMP,Retail dan Dagang,2,Komunikasi,Pekerjaan Lepas
+379,Gaiman Lestari,KABUPATEN KULON PROGO,SD,Tidak Ada Pengalaman,1,Inovasi,Tidak Ada Pengalaman
+380,Maman Hariyah,KABUPATEN KAYONG UTARA,SMA/SMK,Tidak Ada Pengalaman,3,Teknologi Informasi,Freelance
+381,Karen Mandasari,KABUPATEN NIAS,SMA/SMK,Tidak Ada Pengalaman,1,Teknologi Informasi,Teknik
+382,Ratna Situmorang,KOTA PANGKAL PINANG,SD,Pariwisata,3,Komunikasi,Tidak Ada Pengalaman
+383,Oni Marbun,KABUPATEN MAMUJU,S1/D4,Pariwisata,1,Manajemen,Tidak Ada Pengalaman
+384,Bagas Yuniar,KABUPATEN MANGGARAI,SMA/SMK,Pariwisata,1,Teknologi Informasi,Pelayanan
+385,Karna Safitri,KABUPATEN PAMEKASAN,SMA/SMK,Pelayanan,3,Komunikasi,Teknik
+386,Lidya Salahudin,KABUPATEN KONAWE UTARA,S1/D4,Pekerjaan Lepas,1,Manajemen Risiko,Tidak Ada Pengalaman
+387,Raditya Purnawati,KOTA TEBING TINGGI,SD,Retail dan Dagang,3,Mengembangkan Jaringan,Tidak Ada Pengalaman
+388,Jagaraga Namaga,KABUPATEN LOMBOK TIMUR,SD,Pelayanan,1,Teknologi Informasi,Teknologi
+389,Labuh Zulkarnain,KOTA D U M A I,SMA/SMK,Pariwisata,1,Pemasaran,Tidak Ada Pengalaman
+390,Yono Widodo,KABUPATEN SERANG,S1/D4,Pelayanan,1,Inovasi,Tidak Ada Pengalaman
+391,Jail Hakim,KABUPATEN BENER MERIAH,SD,Freelance,2,Kepemimpinan,Freelance
+392,Daryani Astuti,KABUPATEN LIMA PULUH KOTA,SMP,Freelance,2,Kepemimpinan,Teknologi
+393,Hamima Halimah,KABUPATEN SERUYAN,SD,Tidak Ada Pengalaman,1,Penjualan,Retail dan Dagang
+394,Mila Prabowo,KABUPATEN TOJO UNA-UNA,SD,Pekerjaan Lepas,2,Manajemen,Pariwisata
+395,Titi Melani,KABUPATEN BULUNGAN,S1/D4,Freelance,3,Manajemen Risiko,Tidak Ada Pengalaman
+396,Titi Hakim,KABUPATEN MAMBERAMO RAYA,SMA/SMK,Pariwisata,1,Komunikasi,Pelayanan
+397,Gina Yolanda,KABUPATEN NGAWI,S1/D4,Pelayanan,2,Mengembangkan Jaringan,Pelayanan
+398,Rafi Saefullah,KABUPATEN JAYAPURA,SD,Pekerjaan Lepas,3,Penjualan,Pelayanan
+399,Salwa Widiastuti,KOTA BIMA,SD,Freelance,3,Manajemen Risiko,Pekerjaan Lepas
+400,Cagak Wibisono,KABUPATEN BANTUL,SD,Retail dan Dagang,3,Mengembangkan Jaringan,Pelayanan
+401,Galih Mustofa,KABUPATEN BOMBANA,SMA/SMK,Tidak Ada Pengalaman,3,Pemasaran,Pariwisata
+402,Panca Firgantoro,KABUPATEN KOTA BARU,S1/D4,Tidak Ada Pengalaman,1,Mengembangkan Jaringan,Teknik
+403,Maras Thamrin,KABUPATEN BANGKA TENGAH,SMP,Pariwisata,1,Teknologi Informasi,Pekerjaan Lepas
+404,Damar Wahyuni,KABUPATEN SIAU TAGULANDANG BIARO,SMA/SMK,Tidak Ada Pengalaman,1,Komunikasi,Pariwisata
+405,Dwi Wasita,KABUPATEN PACITAN,SMP,Freelance,1,Adaptasi,Teknologi
+406,Titi Mangunsong,KABUPATEN MANOKWARI SELATAN,SD,Freelance,2,Pemasaran,Pariwisata
+407,Bakiono Salahudin,KABUPATEN S I A K,S1/D4,Pekerjaan Lepas,2,Keuangan,Teknologi
+408,Langgeng Nugroho,KABUPATEN SERANG,SMP,Tidak Ada Pengalaman,3,Kepemimpinan,Teknologi
+409,Oni Rahayu,KABUPATEN MOJOKERTO,SMP,Freelance,1,Manajemen Risiko,Pariwisata
+410,Karsana Marpaung,KABUPATEN BUTON,S1/D4,Teknik,3,Penjualan,Retail dan Dagang
+411,Sarah Jailani,KABUPATEN OGAN ILIR,SMP,Teknologi,3,Kepemimpinan,Pelayanan
+412,Paris Halimah,KABUPATEN PEKALONGAN,SMP,Pelayanan,1,Manajemen Risiko,Pekerjaan Lepas
+413,Caket Siregar,KOTA LANGSA,SD,Freelance,2,Komunikasi,Teknik
+414,Luthfi Aryani,KABUPATEN MANGGARAI BARAT,SMA/SMK,Teknik,2,Kepemimpinan,Freelance
+415,Galiono Adriansyah,KABUPATEN BUTON TENGAH,SMP,Pariwisata,2,Teknologi Informasi,Teknik
+416,Ulya Handayani,KABUPATEN GUNUNG KIDUL,SMP,Pariwisata,3,Pemasaran,Teknologi
+417,Kairav Jailani,KOTA BANJAR BARU,SMP,Freelance,1,Teknologi Informasi,Teknik
+418,Liman Gunarto,KABUPATEN SUMEDANG,S1/D4,Pariwisata,3,Manajemen Risiko,Pekerjaan Lepas
+419,Cinta Nugroho,KOTA MADIUN,S1/D4,Freelance,3,Kepemimpinan,Pekerjaan Lepas
+420,Atma Dongoran,KABUPATEN TAPANULI TENGAH,SMA/SMK,Tidak Ada Pengalaman,1,Kepemimpinan,Retail dan Dagang
+421,Limar Laksita,KABUPATEN LEBAK,SD,Teknologi,1,Manajemen,Retail dan Dagang
+422,Syahrini Wijayanti,KABUPATEN EMPAT LAWANG,SD,Tidak Ada Pengalaman,2,Penjualan,Pelayanan
+423,Gambira Purwanti,KOTA TUAL,SD,Pelayanan,1,Adaptasi,Tidak Ada Pengalaman
+424,Raditya Wahyuni,KABUPATEN PIDIE,SMP,Pariwisata,3,Penjualan,Pekerjaan Lepas
+425,Latif Yulianti,KABUPATEN TAPANULI TENGAH,S1/D4,Teknik,1,Manajemen,Tidak Ada Pengalaman
+426,Hasan Waskita,KABUPATEN PURWAKARTA,SD,Freelance,3,Manajemen Risiko,Pariwisata
+427,Nalar Novitasari,KABUPATEN POHUWATO,S1/D4,Pariwisata,2,Manajemen Risiko,Teknik
+428,Malik Latupono,KOTA BATU,SD,Tidak Ada Pengalaman,1,Kepemimpinan,Pelayanan
+429,Gantar Pudjiastuti,KABUPATEN LUWU TIMUR,SD,Teknologi,2,Keuangan,Pelayanan
+430,Balangga Pradipta,KABUPATEN GARUT,S1/D4,Retail dan Dagang,2,Manajemen Risiko,Pariwisata
+431,Najwa Jailani,KOTA MANADO,S1/D4,Retail dan Dagang,2,Mengembangkan Jaringan,Retail dan Dagang
+432,Gangsa Jailani,KABUPATEN EMPAT LAWANG,SMP,Teknik,1,Inovasi,Teknik
+433,Zizi Pradana,KOTA SAMARINDA,S1/D4,Retail dan Dagang,2,Komunikasi,Retail dan Dagang
+434,Tami Rajasa,KABUPATEN KUPANG,SMP,Teknologi,1,Mengembangkan Jaringan,Retail dan Dagang
+435,Ulva Prasasta,KABUPATEN LAMANDAU,SMP,Pekerjaan Lepas,1,Komunikasi,Pariwisata
+436,Gangsa Hidayanto,KOTA JAKARTA TIMUR,SMP,Tidak Ada Pengalaman,3,Keuangan,Tidak Ada Pengalaman
+437,Dono Wahyudin,KABUPATEN KULON PROGO,SMP,Teknik,3,Pemasaran,Freelance
+438,Bakiman Natsir,KABUPATEN BATU BARA,SMA/SMK,Pekerjaan Lepas,1,Penjualan,Tidak Ada Pengalaman
+439,Reza Palastri,KABUPATEN MAHAKAM HULU,SMA/SMK,Teknik,2,Inovasi,Pekerjaan Lepas
+440,Vinsen Wasita,KABUPATEN PAMEKASAN,SMA/SMK,Pariwisata,1,Keuangan,Teknik
+441,Bajragin Sitorus,KOTA SINGKAWANG,SD,Pekerjaan Lepas,2,Penjualan,Freelance
+442,Hendra Hidayanto,KABUPATEN MUNA BARAT,SMP,Teknik,3,Adaptasi,Teknik
+443,Usman Riyanti,KABUPATEN KUTAI BARAT,SD,Teknik,1,Mengembangkan Jaringan,Freelance
+444,Mitra Halim,KOTA MOJOKERTO,S1/D4,Tidak Ada Pengalaman,2,Adaptasi,Teknik
+445,Gambira Handayani,KOTA MAKASSAR,S1/D4,Tidak Ada Pengalaman,3,Keuangan,Pelayanan
+446,Koko Mangunsong,KABUPATEN BURU SELATAN,SMP,Teknologi,3,Keuangan,Pekerjaan Lepas
+447,Mahdi Saptono,KABUPATEN MAYBRAT,SMP,Teknologi,3,Pemasaran,Freelance
+448,Cindy Haryanto,KABUPATEN ROKAN HILIR,SD,Retail dan Dagang,2,Komunikasi,Tidak Ada Pengalaman
+449,Among Haryanto,KABUPATEN BOJONEGORO,SD,Retail dan Dagang,1,Penjualan,Teknologi
+450,Maman Budiyanto,KABUPATEN JEMBRANA,SMP,Pariwisata,2,Komunikasi,Freelance
+451,Mumpuni Novitasari,KOTA BEKASI,S1/D4,Pariwisata,3,Kepemimpinan,Tidak Ada Pengalaman
+452,Mulyanto Sihotang,KABUPATEN MALUKU TENGGARA,SMA/SMK,Pelayanan,2,Manajemen Risiko,Freelance
+453,Faizah Mangunsong,KABUPATEN ACEH SELATAN,S1/D4,Teknologi,1,Komunikasi,Pekerjaan Lepas
+454,Kenari Firmansyah,KABUPATEN BOGOR,SD,Tidak Ada Pengalaman,1,Keuangan,Teknologi
+455,Samiah Anggraini,KABUPATEN REMBANG,SMP,Freelance,2,Manajemen Risiko,Teknik
+456,Suci Suryatmi,KABUPATEN LABUHAN BATU UTARA,SMA/SMK,Retail dan Dagang,2,Teknologi Informasi,Pariwisata
+457,Ganjaran Halimah,KABUPATEN SUMBA BARAT DAYA,SD,Tidak Ada Pengalaman,3,Teknologi Informasi,Pelayanan
+458,Edi Najmudin,KABUPATEN TULANGBAWANG,SMP,Teknik,1,Keuangan,Tidak Ada Pengalaman
+459,Gaman Wijayanti,KABUPATEN BANGLI,SD,Freelance,2,Keuangan,Pelayanan
+460,Sabri Prasetya,KABUPATEN SIJUNJUNG,SD,Teknologi,1,Inovasi,Retail dan Dagang
+461,Asman Puspasari,KABUPATEN MIMIKA,S1/D4,Retail dan Dagang,2,Pemasaran,Pariwisata
+462,Karman Utami,KABUPATEN BIAK NUMFOR,SD,Pariwisata,1,Manajemen,Pelayanan
+463,Mala Fujiati,KABUPATEN MANOKWARI,S1/D4,Pekerjaan Lepas,3,Keuangan,Teknik
+464,Ayu Saragih,KABUPATEN PESAWARAN,SD,Tidak Ada Pengalaman,1,Inovasi,Freelance
+465,Jaeman Mulyani,KOTA BLITAR,S1/D4,Pekerjaan Lepas,3,Komunikasi,Retail dan Dagang
+466,Titin Winarno,KABUPATEN ACEH TENGAH,S1/D4,Pariwisata,1,Penjualan,Teknologi
+467,Kawaca Megantara,KABUPATEN MAMBERAMO RAYA,SD,Freelance,1,Manajemen Risiko,Pariwisata
+468,Ganep Pratiwi,KABUPATEN POHUWATO,SMA/SMK,Freelance,2,Kepemimpinan,Pelayanan
+469,Erik Pudjiastuti,KABUPATEN ACEH BESAR,SMA/SMK,Freelance,1,Pemasaran,Pariwisata
+470,Tira Saragih,KABUPATEN MUARO JAMBI,SMA/SMK,Pelayanan,1,Inovasi,Freelance
+471,Cengkir Yolanda,KABUPATEN MELAWI,S1/D4,Pelayanan,3,Komunikasi,Retail dan Dagang
+472,Bahuraksa Yulianti,KABUPATEN BUNGO,SD,Freelance,3,Pemasaran,Pelayanan
+473,Radit Mahendra,KABUPATEN MAHAKAM HULU,SMA/SMK,Pekerjaan Lepas,1,Komunikasi,Teknologi
+474,Taswir Nainggolan,KABUPATEN MUSI BANYUASIN,S1/D4,Pariwisata,3,Manajemen,Freelance
+475,Fitria Gunarto,KABUPATEN ACEH SINGKIL,S1/D4,Tidak Ada Pengalaman,2,Pemasaran,Retail dan Dagang
+476,Perkasa Simanjuntak,KABUPATEN MIMIKA,SMP,Pelayanan,3,Inovasi,Freelance
+477,Tomi Kurniawan,KABUPATEN KULON PROGO,SD,Pekerjaan Lepas,3,Manajemen,Pelayanan
+478,Karma Mardhiyah,KABUPATEN SELUMA,SD,Teknologi,1,Adaptasi,Tidak Ada Pengalaman
+479,Chelsea Habibi,KABUPATEN TANAH LAUT,S1/D4,Freelance,2,Keuangan,Teknik
+480,Pranawa Najmudin,KABUPATEN TANAH BUMBU,SMP,Freelance,2,Mengembangkan Jaringan,Teknik
+481,Edward Nainggolan,KABUPATEN BENGKULU TENGAH,S1/D4,Teknik,2,Inovasi,Pelayanan
+482,Cemani Yuliarti,KABUPATEN BULELENG,SMP,Teknik,1,Penjualan,Pelayanan
+483,Bagus Habibi,KABUPATEN PASAMAN BARAT,SD,Pekerjaan Lepas,3,Adaptasi,Freelance
+484,Ghani Sinaga,KABUPATEN KARIMUN,SMP,Pelayanan,2,Adaptasi,Retail dan Dagang
+485,Anom Prasetya,KABUPATEN KUTAI BARAT,SMP,Pelayanan,3,Mengembangkan Jaringan,Teknik
+486,Gaiman Iswahyudi,KABUPATEN LANNY JAYA,SD,Pekerjaan Lepas,3,Komunikasi,Pariwisata
+487,Bahuwirya Purwanti,KABUPATEN ENREKANG,S1/D4,Freelance,2,Inovasi,Pariwisata
+488,Amalia Mayasari,KABUPATEN MINAHASA TENGGARA,SMA/SMK,Pekerjaan Lepas,1,Inovasi,Pelayanan
+489,Gabriella Rajata,KABUPATEN SUMBA BARAT,SD,Tidak Ada Pengalaman,1,Teknologi Informasi,Pelayanan
+490,Radika Dongoran,KABUPATEN MAJALENGKA,S1/D4,Pariwisata,3,Manajemen,Pariwisata
+491,Lanang Ardianto,KABUPATEN LEBONG,SMA/SMK,Teknik,3,Kepemimpinan,Teknik
+492,Ega Mahendra,KABUPATEN INDRAGIRI HILIR,SMA/SMK,Retail dan Dagang,3,Kepemimpinan,Pariwisata
+493,Raditya Habibi,KABUPATEN TANGGAMUS,SMA/SMK,Retail dan Dagang,1,Penjualan,Freelance
+494,Garda Prasasta,KOTA SAWAH LUNTO,SMA/SMK,Teknik,2,Mengembangkan Jaringan,Teknik
+495,Cawisono Mansur,KABUPATEN ACEH BARAT,SMA/SMK,Freelance,1,Kepemimpinan,Teknologi
+496,Yosef Mayasari,KABUPATEN MAPPI,SMP,Pekerjaan Lepas,3,Keuangan,Teknologi
+497,Winda Purwanti,KOTA PANGKAL PINANG,SMP,Pelayanan,2,Pemasaran,Freelance
+498,Putri Prakasa,KABUPATEN LANDAK,SMA/SMK,Teknologi,3,Adaptasi,Teknik
+499,Pranata Rajata,KABUPATEN SIAU TAGULANDANG BIARO,SD,Tidak Ada Pengalaman,1,Penjualan,Pelayanan
+500,Martani Kusumo,KABUPATEN MAPPI,SD,Teknik,3,Teknologi Informasi,Teknologi
+501,Garda Yuliarti,KABUPATEN GRESIK,SD,Pariwisata,1,Inovasi,Tidak Ada Pengalaman
+502,Sabri Melani,KABUPATEN KERINCI,SD,Pekerjaan Lepas,1,Mengembangkan Jaringan,Tidak Ada Pengalaman
+503,Emas Palastri,KABUPATEN KONAWE,SD,Teknik,2,Teknologi Informasi,Pekerjaan Lepas
+504,Mala Widodo,KABUPATEN KUDUS,SMP,Teknologi,2,Adaptasi,Freelance
+505,Jono Pratiwi,KOTA PRABUMULIH,S1/D4,Teknologi,2,Manajemen,Pariwisata
+506,Jagapati Simanjuntak,KOTA BINJAI,S1/D4,Freelance,1,Adaptasi,Freelance
+507,Rafid Sihotang,KABUPATEN MINAHASA UTARA,SMP,Retail dan Dagang,2,Manajemen Risiko,Pekerjaan Lepas
+508,Ciaobella Marpaung,KABUPATEN MAMUJU UTARA,SD,Freelance,2,Keuangan,Pariwisata
+509,Umar Novitasari,KABUPATEN CIAMIS,SD,Tidak Ada Pengalaman,2,Adaptasi,Retail dan Dagang
+510,Gara Siregar,KABUPATEN KEPULAUAN TALAUD,S1/D4,Freelance,1,Kepemimpinan,Pelayanan
+511,Unjani Hariyah,KABUPATEN CILACAP,SMA/SMK,Retail dan Dagang,3,Manajemen Risiko,Pelayanan
+512,Jagapati Haryanti,KABUPATEN PANDEGLANG,SMA/SMK,Teknologi,2,Inovasi,Freelance
+513,Kasiyah Mustofa,KABUPATEN MIMIKA,S1/D4,Teknik,3,Manajemen Risiko,Retail dan Dagang
+514,Daru Salahudin,KABUPATEN SERAM BAGIAN BARAT,S1/D4,Pekerjaan Lepas,2,Manajemen Risiko,Teknik
+515,Bambang Padmasari,KABUPATEN GUNUNG KIDUL,SD,Pelayanan,3,Keuangan,Teknik
+516,Septi Widiastuti,KABUPATEN TOBA SAMOSIR,SD,Pariwisata,1,Mengembangkan Jaringan,Pelayanan
+517,Adikara Prayoga,KABUPATEN KAYONG UTARA,SMA/SMK,Pelayanan,1,Komunikasi,Retail dan Dagang
+518,Martaka Situmorang,KABUPATEN PANGKAJENE DAN KEPULAUAN,SD,Teknologi,2,Komunikasi,Pariwisata
+519,Dadap Nababan,KABUPATEN ACEH TAMIANG,SMA/SMK,Teknologi,1,Inovasi,Teknologi
+520,Uda Natsir,KOTA SABANG,SMA/SMK,Pariwisata,2,Pemasaran,Freelance
+521,Clara Sihotang,KABUPATEN BINTAN,SD,Freelance,3,Mengembangkan Jaringan,Teknik
+522,Titin Januar,KABUPATEN BARITO TIMUR,SMP,Freelance,1,Adaptasi,Retail dan Dagang
+523,Perkasa Ardianto,KABUPATEN GUNUNG MAS,SD,Pekerjaan Lepas,2,Kepemimpinan,Teknologi
+524,Vino Andriani,KABUPATEN PANGANDARAN,SMA/SMK,Freelance,1,Manajemen Risiko,Teknik
+525,Mala Andriani,KABUPATEN MAMBERAMO RAYA,S1/D4,Freelance,2,Pemasaran,Pelayanan
+526,Cahyadi Winarno,KABUPATEN BUTON UTARA,SD,Freelance,3,Mengembangkan Jaringan,Freelance
+527,Gilda Nashiruddin,KABUPATEN NAGAN RAYA,SD,Pariwisata,2,Keuangan,Tidak Ada Pengalaman
+528,Jasmin Pratiwi,KABUPATEN BEKASI,SMA/SMK,Pariwisata,1,Penjualan,Pelayanan
+529,Banawi Januar,KABUPATEN PROBOLINGGO,SMA/SMK,Pekerjaan Lepas,1,Inovasi,Pariwisata
+530,Daruna Rajata,KABUPATEN TAPANULI TENGAH,SMP,Teknik,3,Keuangan,Freelance
+531,Fathonah Hardiansyah,KABUPATEN TIMOR TENGAH UTARA,SMA/SMK,Pelayanan,3,Manajemen,Freelance
+532,Daliman Susanti,KABUPATEN KUPANG,SMP,Freelance,2,Komunikasi,Pekerjaan Lepas
+533,Ilyas Nasyidah,KOTA SAWAH LUNTO,SMA/SMK,Freelance,1,Manajemen,Freelance
+534,Hasna Sirait,KABUPATEN KUBU RAYA,S1/D4,Pelayanan,2,Penjualan,Retail dan Dagang
+535,Betania Uyainah,KABUPATEN TOJO UNA-UNA,SMP,Tidak Ada Pengalaman,3,Inovasi,Teknik
+536,Ami Nurdiyanti,KABUPATEN PANIAI,S1/D4,Pariwisata,1,Adaptasi,Teknologi
+537,Bagus Permata,KABUPATEN BEKASI,SMA/SMK,Pelayanan,2,Teknologi Informasi,Tidak Ada Pengalaman
+538,Hartaka Tarihoran,KOTA SOLOK,SD,Freelance,2,Penjualan,Teknik
+539,Kamaria Mahendra,KABUPATEN MUARA ENIM,SMA/SMK,Pariwisata,1,Kepemimpinan,Pelayanan
+540,Kamila Permata,KABUPATEN TANAH DATAR,SD,Pariwisata,1,Adaptasi,Tidak Ada Pengalaman
+541,Harsanto Mansur,KABUPATEN KONAWE,SMP,Tidak Ada Pengalaman,2,Mengembangkan Jaringan,Pariwisata
+542,Omar Prakasa,KOTA BANDUNG,SD,Teknologi,3,Inovasi,Teknologi
+543,Hardi Prakasa,KABUPATEN SRAGEN,SMP,Pariwisata,3,Kepemimpinan,Pekerjaan Lepas
+544,Reza Napitupulu,KABUPATEN BANGKA BARAT,SMA/SMK,Pekerjaan Lepas,2,Penjualan,Retail dan Dagang
+545,Manah Haryanti,KABUPATEN KEPULAUAN ARU,SD,Pekerjaan Lepas,2,Penjualan,Pelayanan
+546,Asman Firgantoro,KABUPATEN PAMEKASAN,S1/D4,Retail dan Dagang,3,Inovasi,Retail dan Dagang
+547,Kambali Maheswara,KABUPATEN KAIMANA,SMP,Pelayanan,1,Keuangan,Teknik
+548,Jumadi Simanjuntak,KOTA SURABAYA,SMA/SMK,Freelance,3,Manajemen,Pekerjaan Lepas
+549,Paiman Halimah,KABUPATEN SEMARANG,SD,Pariwisata,1,Teknologi Informasi,Teknologi
+550,Ajeng Wijayanti,KOTA TASIKMALAYA,SMP,Pelayanan,1,Manajemen,Pariwisata
+551,Ade Gunawan,KABUPATEN SUPIORI,SD,Tidak Ada Pengalaman,1,Kepemimpinan,Teknik
+552,Dewi Prakasa,KABUPATEN MELAWI,SD,Pelayanan,1,Komunikasi,Pariwisata
+553,Cemani Waskita,KABUPATEN GAYO LUES,SMP,Teknik,3,Kepemimpinan,Freelance
+554,Mustika Saragih,KABUPATEN BUOL,S1/D4,Teknik,1,Adaptasi,Teknologi
+555,Dirja Mahendra,KABUPATEN MALANG,SMP,Pariwisata,1,Mengembangkan Jaringan,Tidak Ada Pengalaman
+556,Dimas Susanti,KABUPATEN MUNA,SD,Pariwisata,3,Manajemen Risiko,Freelance
+557,Cawisono Firmansyah,KABUPATEN BENGKALIS,S1/D4,Teknologi,2,Inovasi,Pelayanan
+558,Bakidin Namaga,KOTA PANGKAL PINANG,SMP,Pelayanan,3,Penjualan,Teknologi
+559,Laksana Utama,KOTA D U M A I,S1/D4,Freelance,3,Mengembangkan Jaringan,Teknologi
+560,Maras Mandala,KABUPATEN BLITAR,SD,Teknik,3,Manajemen,Teknologi
+561,Lamar Hardiansyah,KOTA PADANG,S1/D4,Teknik,2,Inovasi,Pelayanan
+562,Lukman Wijayanti,KABUPATEN PARIGI MOUTONG,SMP,Retail dan Dagang,2,Adaptasi,Freelance
+563,Ayu Maheswara,KABUPATEN PELALAWAN,S1/D4,Tidak Ada Pengalaman,3,Inovasi,Pelayanan
+564,Tina Nasyiah,KOTA PADANGSIDIMPUAN,SMP,Freelance,1,Adaptasi,Pelayanan
+565,Eka Ardianto,KOTA DENPASAR,SD,Pekerjaan Lepas,2,Komunikasi,Pariwisata
+566,Harto Mustofa,KABUPATEN GOWA,SMA/SMK,Pekerjaan Lepas,2,Adaptasi,Teknik
+567,Aswani Widiastuti,KABUPATEN KLUNGKUNG,S1/D4,Teknik,3,Mengembangkan Jaringan,Pelayanan
+568,Dadap Astuti,KABUPATEN BANGGAI LAUT,SD,Teknik,1,Manajemen Risiko,Pelayanan
+569,Wasis Iswahyudi,KABUPATEN NIAS SELATAN,SMP,Freelance,1,Manajemen,Tidak Ada Pengalaman
+570,Bakda Hutapea,KABUPATEN SIGI,SMP,Pariwisata,2,Teknologi Informasi,Tidak Ada Pengalaman
+571,Galar Andriani,KABUPATEN BOJONEGORO,S1/D4,Freelance,1,Manajemen Risiko,Tidak Ada Pengalaman
+572,Mahdi Usada,KABUPATEN REJANG LEBONG,SMP,Pelayanan,1,Penjualan,Teknologi
+573,Ophelia Gunawan,KOTA BAUBAU,SMA/SMK,Tidak Ada Pengalaman,1,Manajemen Risiko,Pariwisata
+574,Taufik Nuraini,KOTA BIMA,SMP,Tidak Ada Pengalaman,3,Komunikasi,Freelance
+575,Mustofa Sirait,KABUPATEN LAMPUNG TIMUR,SMA/SMK,Teknologi,2,Manajemen,Tidak Ada Pengalaman
+576,Humaira Purnawati,KABUPATEN ACEH SELATAN,SD,Pariwisata,1,Teknologi Informasi,Retail dan Dagang
+577,Ina Sitompul,KOTA BIMA,S1/D4,Pariwisata,2,Adaptasi,Retail dan Dagang
+578,Liman Utama,KABUPATEN TANAH BUMBU,S1/D4,Teknik,1,Komunikasi,Pariwisata
+579,Wage Yulianti,KABUPATEN LAMPUNG BARAT,SD,Tidak Ada Pengalaman,2,Mengembangkan Jaringan,Teknik
+580,Restu Mahendra,KABUPATEN ROTE NDAO,SMA/SMK,Teknik,2,Adaptasi,Pekerjaan Lepas
+581,Cakrajiya Pudjiastuti,KOTA AMBON,S1/D4,Pariwisata,2,Inovasi,Teknologi
+582,Wardi Rahayu,KABUPATEN WONOGIRI,S1/D4,Teknik,2,Manajemen Risiko,Teknik
+583,Amalia Utami,KABUPATEN MUNA,S1/D4,Tidak Ada Pengalaman,2,Teknologi Informasi,Tidak Ada Pengalaman
+584,Hendri Maheswara,KABUPATEN TULUNGAGUNG,SD,Freelance,3,Teknologi Informasi,Freelance
+585,Kanda Samosir,KABUPATEN INDRAGIRI HULU,SD,Pariwisata,1,Kepemimpinan,Tidak Ada Pengalaman
+586,Nadia Wijayanti,KABUPATEN MIMIKA,SMP,Tidak Ada Pengalaman,3,Pemasaran,Tidak Ada Pengalaman
+587,Zelda Saragih,KABUPATEN PELALAWAN,SMP,Teknik,2,Mengembangkan Jaringan,Teknologi
+588,Gamani Laksita,KABUPATEN LUMAJANG,SMP,Pelayanan,2,Komunikasi,Pariwisata
+589,Wisnu Puspita,KABUPATEN BINTAN,SMA/SMK,Freelance,1,Teknologi Informasi,Teknologi
+590,Ratih Hasanah,KOTA YOGYAKARTA,S1/D4,Freelance,2,Teknologi Informasi,Pariwisata
+591,Garang Prastuti,KABUPATEN NABIRE,SMP,Pekerjaan Lepas,1,Mengembangkan Jaringan,Freelance
+592,Dina Agustina,KABUPATEN JAYAPURA,SD,Pekerjaan Lepas,2,Kepemimpinan,Freelance
+593,Artawan Jailani,KABUPATEN MUSI RAWAS,SMA/SMK,Pekerjaan Lepas,3,Manajemen Risiko,Freelance
+594,Balamantri Wulandari,KABUPATEN BENGKULU SELATAN,SMP,Teknologi,3,Manajemen,Pelayanan
+595,Cemeti Palastri,KOTA KUPANG,SMA/SMK,Pariwisata,1,Keuangan,Freelance
+596,Lega Prakasa,KABUPATEN TOJO UNA-UNA,SD,Retail dan Dagang,2,Inovasi,Freelance
+597,Intan Yulianti,KABUPATEN BOLAANG MONGONDOW,S1/D4,Freelance,1,Manajemen Risiko,Pariwisata
+598,Karya Mustofa,KABUPATEN ASAHAN,SMA/SMK,Pariwisata,2,Penjualan,Pariwisata
+599,Wisnu Saptono,KABUPATEN BREBES,SMA/SMK,Retail dan Dagang,1,Manajemen Risiko,Tidak Ada Pengalaman
+600,Dodo Melani,KABUPATEN TAPIN,SD,Freelance,1,Manajemen Risiko,Pariwisata
+601,Taufan Permadi,KOTA PAGAR ALAM,SD,Teknik,1,Teknologi Informasi,Pariwisata
+602,Karya Rajata,KABUPATEN POLEWALI MANDAR,SD,Teknologi,2,Manajemen,Pekerjaan Lepas
+603,Karna Nurdiyanti,KABUPATEN BUTON SELATAN,SMA/SMK,Pariwisata,2,Kepemimpinan,Tidak Ada Pengalaman
+604,Bakda Haryanti,KABUPATEN PUNCAK JAYA,SMP,Pariwisata,3,Mengembangkan Jaringan,Pariwisata
+605,Ifa Prasasta,KABUPATEN SITUBONDO,SMP,Freelance,2,Pemasaran,Freelance
+606,Kasusra Nababan,KABUPATEN TELUK BINTUNI,SD,Pelayanan,3,Penjualan,Tidak Ada Pengalaman
+607,Ami Pradana,KABUPATEN LAMANDAU,SD,Tidak Ada Pengalaman,2,Mengembangkan Jaringan,Pelayanan
+608,Akarsana Waluyo,KOTA CILEGON,SMP,Tidak Ada Pengalaman,3,Penjualan,Tidak Ada Pengalaman
+609,Rahmat Usada,KABUPATEN BANYU ASIN,S1/D4,Pariwisata,2,Manajemen Risiko,Retail dan Dagang
+610,Kamila Kusumo,KABUPATEN ACEH BESAR,SMP,Teknologi,2,Penjualan,Teknik
+611,Ibrahim Usamah,KABUPATEN BANDUNG BARAT,S1/D4,Teknik,3,Kepemimpinan,Retail dan Dagang
+612,Imam Winarno,KABUPATEN NGANJUK,SMA/SMK,Pelayanan,3,Keuangan,Tidak Ada Pengalaman
+613,Paiman Rahmawati,KOTA BEKASI,SMA/SMK,Teknik,2,Pemasaran,Pekerjaan Lepas
+614,Kasusra Sirait,KABUPATEN SIDOARJO,SD,Freelance,1,Manajemen Risiko,Pekerjaan Lepas
+615,Latika Nugroho,KABUPATEN SERANG,SMA/SMK,Teknik,2,Manajemen Risiko,Teknologi
+616,Dalima Najmudin,KABUPATEN JOMBANG,SMP,Pelayanan,3,Adaptasi,Tidak Ada Pengalaman
+617,Balidin Putra,KOTA PEKANBARU,SD,Pekerjaan Lepas,3,Teknologi Informasi,Pariwisata
+618,Banawa Suryatmi,KABUPATEN EMPAT LAWANG,SD,Pelayanan,3,Adaptasi,Pelayanan
+619,Tira Siregar,KOTA YOGYAKARTA,S1/D4,Pekerjaan Lepas,1,Adaptasi,Tidak Ada Pengalaman
+620,Ilyas Wijaya,KABUPATEN SARMI,S1/D4,Pariwisata,1,Komunikasi,Tidak Ada Pengalaman
+621,Tira Natsir,KOTA JAKARTA UTARA,S1/D4,Retail dan Dagang,3,Teknologi Informasi,Retail dan Dagang
+622,Rangga Prayoga,KOTA TASIKMALAYA,SMA/SMK,Teknologi,1,Adaptasi,Teknologi
+623,Raditya Purwanti,KABUPATEN PASAMAN BARAT,S1/D4,Retail dan Dagang,3,Komunikasi,Pelayanan
+624,Zelda Marbun,KABUPATEN TULANGBAWANG,SMP,Pekerjaan Lepas,2,Manajemen Risiko,Pelayanan
+625,Vera Saefullah,KABUPATEN TAPIN,S1/D4,Teknik,3,Teknologi Informasi,Freelance
+626,Tiara Handayani,KABUPATEN PASAMAN,SMA/SMK,Teknik,3,Manajemen,Teknologi
+627,Emong Hidayat,KABUPATEN PURBALINGGA,S1/D4,Teknologi,3,Mengembangkan Jaringan,Freelance
+628,Nrima Sudiati,KOTA GUNUNGSITOLI,S1/D4,Teknologi,3,Inovasi,Teknologi
+629,Opan Marbun,KOTA SUNGAI PENUH,SMA/SMK,Pekerjaan Lepas,1,Adaptasi,Retail dan Dagang
+630,Ade Sirait,KABUPATEN BURU SELATAN,SD,Pekerjaan Lepas,3,Pemasaran,Pekerjaan Lepas
+631,Arta Purnawati,KABUPATEN PULANG PISAU,SMA/SMK,Pariwisata,3,Komunikasi,Retail dan Dagang
+632,Oman Padmasari,KABUPATEN PEGUNUNGAN ARFAK,SMP,Teknik,3,Mengembangkan Jaringan,Pekerjaan Lepas
+633,Nalar Hardiansyah,KABUPATEN SORONG,S1/D4,Pariwisata,2,Inovasi,Pelayanan
+634,Violet Hutagalung,KOTA JAYAPURA,SMA/SMK,Teknologi,2,Teknologi Informasi,Tidak Ada Pengalaman
+635,Lulut Hasanah,KABUPATEN SUMBA BARAT DAYA,SMP,Tidak Ada Pengalaman,3,Mengembangkan Jaringan,Pekerjaan Lepas
+636,Kanda Budiyanto,KABUPATEN SABU RAIJUA,S1/D4,Teknik,2,Adaptasi,Pelayanan
+637,Edi Hariyah,KABUPATEN BATANG HARI,SD,Tidak Ada Pengalaman,3,Manajemen,Pelayanan
+638,Bambang Puspasari,KOTA TARAKAN,SMA/SMK,Pariwisata,1,Kepemimpinan,Pekerjaan Lepas
+639,Padma Prabowo,KABUPATEN PATI,SMA/SMK,Freelance,2,Inovasi,Retail dan Dagang
+640,Warsita Kurniawan,KABUPATEN S I A K,SD,Freelance,1,Manajemen Risiko,Teknologi
+641,Harjasa Mandasari,KABUPATEN BOALEMO,S1/D4,Pariwisata,2,Adaptasi,Teknik
+642,Panji Rajata,KABUPATEN MALANG,S1/D4,Freelance,3,Penjualan,Tidak Ada Pengalaman
+643,Maryadi Uwais,KOTA YOGYAKARTA,SMA/SMK,Retail dan Dagang,2,Manajemen Risiko,Teknologi
+644,Kairav Palastri,KOTA TERNATE,SMP,Retail dan Dagang,2,Teknologi Informasi,Freelance
+645,Eluh Usamah,KABUPATEN BELU,S1/D4,Pekerjaan Lepas,2,Pemasaran,Tidak Ada Pengalaman
+646,Zulaikha Narpati,KOTA DEPOK,SMP,Retail dan Dagang,2,Komunikasi,Pelayanan
+647,Jono Rahayu,KABUPATEN NDUGA,SMA/SMK,Retail dan Dagang,2,Pemasaran,Teknologi
+648,Ami Sudiati,KABUPATEN BARITO TIMUR,SD,Pelayanan,1,Manajemen,Teknologi
+649,Kartika Prabowo,KOTA MANADO,SD,Teknologi,2,Penjualan,Teknologi
+650,Aslijan Laksmiwati,KABUPATEN BOVEN DIGOEL,SMP,Teknologi,2,Kepemimpinan,Freelance
+651,Danu Sihombing,KABUPATEN MALUKU TENGGARA,SMA/SMK,Retail dan Dagang,1,Manajemen,Teknologi
+652,Kani Pangestu,KABUPATEN ACEH UTARA,S1/D4,Teknik,2,Mengembangkan Jaringan,Teknologi
+653,Zahra Winarsih,KABUPATEN PURBALINGGA,SMP,Retail dan Dagang,1,Adaptasi,Tidak Ada Pengalaman
+654,Uli Hutapea,KABUPATEN FAKFAK,SMP,Tidak Ada Pengalaman,1,Mengembangkan Jaringan,Teknologi
+655,Fitria Nainggolan,KABUPATEN HALMAHERA TIMUR,S1/D4,Pariwisata,3,Manajemen Risiko,Pariwisata
+656,Sadina Wibisono,KABUPATEN GOWA,S1/D4,Pariwisata,1,Komunikasi,Tidak Ada Pengalaman
+657,Kenes Wijayanti,KABUPATEN MAMASA,SD,Tidak Ada Pengalaman,1,Kepemimpinan,Teknik
+658,Halim Melani,KOTA BANDUNG,SD,Pelayanan,2,Keuangan,Pelayanan
+659,Ana Kuswoyo,KABUPATEN KEEROM,S1/D4,Pekerjaan Lepas,3,Keuangan,Freelance
+660,Darman Nugroho,KABUPATEN SARMI,SD,Tidak Ada Pengalaman,1,Adaptasi,Tidak Ada Pengalaman
+661,Karna Mandala,KABUPATEN PINRANG,SD,Teknologi,3,Inovasi,Pekerjaan Lepas
+662,Zulaikha Puspasari,KOTA SAWAH LUNTO,SMA/SMK,Teknologi,3,Keuangan,Retail dan Dagang
+663,Dirja Nurdiyanti,KABUPATEN MALUKU TENGGARA,S1/D4,Teknik,1,Kepemimpinan,Freelance
+664,Kadir Sudiati,KABUPATEN ENREKANG,SMA/SMK,Tidak Ada Pengalaman,2,Teknologi Informasi,Pelayanan
+665,Virman Lazuardi,KABUPATEN REJANG LEBONG,SMA/SMK,Pekerjaan Lepas,3,Mengembangkan Jaringan,Tidak Ada Pengalaman
+666,Perkasa Mandala,KABUPATEN BANYUMAS,SMA/SMK,Pekerjaan Lepas,1,Komunikasi,Pelayanan
+667,Jamal Narpati,KABUPATEN MAMUJU TENGAH,SD,Tidak Ada Pengalaman,1,Mengembangkan Jaringan,Pekerjaan Lepas
+668,Maida Nuraini,KABUPATEN BARITO SELATAN,SMA/SMK,Retail dan Dagang,3,Mengembangkan Jaringan,Pelayanan
+669,Legawa Prabowo,KOTA TOMOHON,SD,Teknologi,1,Keuangan,Pekerjaan Lepas
+670,Dalima Widodo,KABUPATEN MALANG,SD,Pariwisata,3,Komunikasi,Pariwisata
+671,Cici Mandala,KABUPATEN ASAHAN,SD,Teknologi,2,Penjualan,Teknologi
+672,Narji Haryanti,KABUPATEN MALAKA,SD,Teknik,1,Teknologi Informasi,Teknik
+673,Parman Mangunsong,KABUPATEN SUKOHARJO,SD,Freelance,3,Teknologi Informasi,Pariwisata
+674,Zizi Mandasari,KABUPATEN TULANG BAWANG BARAT,SMA/SMK,Tidak Ada Pengalaman,1,Manajemen Risiko,Tidak Ada Pengalaman
+675,Ega Hardiansyah,KOTA BIMA,SMP,Retail dan Dagang,1,Keuangan,Retail dan Dagang
+676,Kacung Fujiati,KABUPATEN PEGUNUNGAN ARFAK,SMP,Teknik,1,Inovasi,Freelance
+677,Hasta Maulana,KABUPATEN TABALONG,SD,Tidak Ada Pengalaman,3,Pemasaran,Freelance
+678,Dinda Jailani,KABUPATEN MUNA BARAT,S1/D4,Pariwisata,1,Inovasi,Pariwisata
+679,Harimurti Usada,KABUPATEN KUPANG,SMA/SMK,Pekerjaan Lepas,1,Mengembangkan Jaringan,Retail dan Dagang
+680,Rahman Utama,KABUPATEN KOTA BARU,SMA/SMK,Tidak Ada Pengalaman,1,Teknologi Informasi,Pariwisata
+681,Nyana Salahudin,KABUPATEN MAJALENGKA,SMA/SMK,Pelayanan,3,Manajemen,Retail dan Dagang
+682,Praba Utama,KABUPATEN MAHAKAM HULU,SD,Teknik,3,Pemasaran,Teknologi
+683,Harimurti Megantara,KABUPATEN BANGGAI,SD,Teknologi,1,Manajemen Risiko,Tidak Ada Pengalaman
+684,Silvia Iswahyudi,KABUPATEN SERDANG BEDAGAI,SD,Pelayanan,1,Pemasaran,Freelance
+685,Jasmin Dongoran,KOTA MAKASSAR,S1/D4,Teknologi,3,Penjualan,Freelance
+686,Nasrullah Haryanto,KOTA CILEGON,SD,Freelance,3,Komunikasi,Freelance
+687,Johan Mustofa,KABUPATEN TOLIKARA,SMP,Teknik,1,Pemasaran,Teknik
+688,Bakiman Winarno,KOTA JAKARTA BARAT,SMP,Pariwisata,2,Manajemen,Pekerjaan Lepas
+689,Lantar Usada,KABUPATEN BULUKUMBA,SD,Pariwisata,2,Teknologi Informasi,Pekerjaan Lepas
+690,Jefri Saragih,KABUPATEN KEPULAUAN SELAYAR,SMA/SMK,Tidak Ada Pengalaman,1,Keuangan,Teknologi
+691,Galih Haryanto,KABUPATEN KAPUAS,SD,Tidak Ada Pengalaman,3,Keuangan,Freelance
+692,Paiman Nugroho,KABUPATEN BELITUNG TIMUR,S1/D4,Pekerjaan Lepas,1,Kepemimpinan,Teknik
+693,Icha Kusmawati,KABUPATEN PULAU TALIABU,S1/D4,Teknik,3,Penjualan,Freelance
+694,Ajeng Dongoran,KOTA PAREPARE,SMP,Tidak Ada Pengalaman,3,Komunikasi,Pariwisata
+695,Timbul Putra,KOTA BLITAR,S1/D4,Teknologi,3,Penjualan,Freelance
+696,Vega Prabowo,KABUPATEN SINJAI,SMP,Teknik,1,Adaptasi,Freelance
+697,Cahyanto Puspasari,KABUPATEN MIMIKA,S1/D4,Teknik,1,Mengembangkan Jaringan,Pekerjaan Lepas
+698,Zamira Saptono,KABUPATEN PUNCAK JAYA,S1/D4,Retail dan Dagang,3,Mengembangkan Jaringan,Pelayanan
+699,Gamanto Gunarto,KABUPATEN BLITAR,SMA/SMK,Pariwisata,1,Manajemen,Pekerjaan Lepas
+700,Usman Haryanto,KABUPATEN SERDANG BEDAGAI,S1/D4,Pekerjaan Lepas,2,Manajemen Risiko,Teknologi
+701,Cager Fujiati,KABUPATEN TAPIN,SMP,Pariwisata,2,Manajemen Risiko,Tidak Ada Pengalaman
+702,Dwi Damanik,KOTA BAUBAU,SMA/SMK,Tidak Ada Pengalaman,1,Teknologi Informasi,Pariwisata
+703,Bakti Widiastuti,KABUPATEN SOPPENG,S1/D4,Retail dan Dagang,3,Inovasi,Freelance
+704,Wadi Suartini,KABUPATEN KENDAL,S1/D4,Teknologi,2,Manajemen Risiko,Retail dan Dagang
+705,Kayun Hutapea,KABUPATEN ALOR,SD,Pekerjaan Lepas,3,Manajemen,Pekerjaan Lepas
+706,Dimaz Pratama,KOTA MAGELANG,S1/D4,Pariwisata,1,Komunikasi,Pariwisata
+707,Ian Permadi,KABUPATEN TANJUNG JABUNG TIMUR,SD,Freelance,3,Mengembangkan Jaringan,Pariwisata
+708,Labuh Rajata,KOTA SERANG,S1/D4,Pariwisata,3,Inovasi,Teknologi
+709,Violet Siregar,KABUPATEN PASAMAN,S1/D4,Teknologi,3,Mengembangkan Jaringan,Freelance
+710,Edi Wulandari,KABUPATEN PACITAN,SMA/SMK,Retail dan Dagang,2,Teknologi Informasi,Freelance
+711,Eva Sudiati,KOTA LUBUKLINGGAU,SMA/SMK,Pelayanan,1,Teknologi Informasi,Pariwisata
+712,Ulva Fujiati,KABUPATEN KONAWE,SMP,Pariwisata,3,Manajemen Risiko,Teknik
+713,Irma Yuliarti,KABUPATEN PANGKAJENE DAN KEPULAUAN,SMP,Pekerjaan Lepas,3,Penjualan,Pariwisata
+714,Faizah Jailani,KABUPATEN DELI SERDANG,SD,Teknik,3,Mengembangkan Jaringan,Pariwisata
+715,Karsana Rahmawati,KABUPATEN PENAJAM PASER UTARA,S1/D4,Freelance,2,Manajemen Risiko,Teknologi
+716,Umay Mandala,KOTA JAKARTA BARAT,SMP,Teknik,3,Penjualan,Teknik
+717,Lantar Wacana,KABUPATEN BULUKUMBA,S1/D4,Pelayanan,2,Manajemen Risiko,Pelayanan
+718,Jayadi Lestari,KABUPATEN ACEH BARAT,SMA/SMK,Freelance,1,Manajemen Risiko,Pelayanan
+719,Darmanto Widiastuti,KABUPATEN ASAHAN,SD,Pelayanan,2,Keuangan,Teknologi
+720,Jais Gunarto,KABUPATEN DOGIYAI,SD,Tidak Ada Pengalaman,2,Manajemen,Retail dan Dagang
+721,Eka Sihombing,KABUPATEN KUNINGAN,SD,Teknologi,2,Inovasi,Tidak Ada Pengalaman
+722,Cemeti Saragih,KABUPATEN BANYUWANGI,SMA/SMK,Pekerjaan Lepas,3,Keuangan,Pekerjaan Lepas
+723,Elon Januar,KABUPATEN SUMBAWA BARAT,SD,Tidak Ada Pengalaman,2,Pemasaran,Pelayanan
+724,Vanesa Sinaga,KOTA JAKARTA BARAT,SMA/SMK,Teknologi,2,Manajemen,Freelance
+725,Ratih Prabowo,KABUPATEN PENUKAL ABAB LEMATANG ILIR,S1/D4,Retail dan Dagang,2,Teknologi Informasi,Retail dan Dagang
+726,Laswi Widodo,KABUPATEN BENGKALIS,SMP,Pelayanan,3,Komunikasi,Pekerjaan Lepas
+727,Yono Samosir,KABUPATEN INDRAGIRI HILIR,SMA/SMK,Teknik,3,Inovasi,Retail dan Dagang
+728,Upik Budiyanto,KABUPATEN BOLAANG MONGONDOW,SMP,Pelayanan,1,Kepemimpinan,Teknologi
+729,Lurhur Lestari,KABUPATEN MUSI RAWAS UTARA,SD,Teknik,1,Komunikasi,Tidak Ada Pengalaman
+730,Vicky Mustofa,KABUPATEN BOYOLALI,SMP,Pelayanan,1,Kepemimpinan,Freelance
+731,Bahuwarna Hassanah,KOTA PALU,S1/D4,Retail dan Dagang,1,Inovasi,Pekerjaan Lepas
+732,Bambang Samosir,KABUPATEN KEPULAUAN MERANTI,S1/D4,Pariwisata,2,Adaptasi,Teknologi
+733,Akarsana Pranowo,KABUPATEN TABANAN,SMP,Pekerjaan Lepas,1,Mengembangkan Jaringan,Teknologi
+734,Darmaji Utama,KABUPATEN SUBANG,SMP,Teknik,1,Inovasi,Tidak Ada Pengalaman
+735,Maimunah Novitasari,KOTA PEKALONGAN,SMA/SMK,Teknik,2,Inovasi,Pekerjaan Lepas
+736,Luwar Wahyuni,KABUPATEN SERANG,SMA/SMK,Freelance,1,Manajemen Risiko,Freelance
+737,Marsito Pangestu,KOTA TERNATE,SD,Pelayanan,3,Adaptasi,Retail dan Dagang
+738,Candrakanta Yuliarti,KABUPATEN SEKADAU,S1/D4,Tidak Ada Pengalaman,3,Pemasaran,Pelayanan
+739,Wisnu Kusumo,KABUPATEN PASAMAN BARAT,SMA/SMK,Teknologi,1,Penjualan,Freelance
+740,Tasnim Nasyidah,KABUPATEN GOWA,SMP,Pariwisata,3,Keuangan,Pelayanan
+741,Oman Kuswoyo,KABUPATEN KARAWANG,SD,Teknik,1,Komunikasi,Freelance
+742,Hesti Riyanti,KABUPATEN SUMBAWA,SMP,Pekerjaan Lepas,3,Manajemen Risiko,Freelance
+743,Wirda Winarno,KABUPATEN MERANGIN,SMA/SMK,Teknologi,3,Komunikasi,Tidak Ada Pengalaman
+744,Gina Suartini,KOTA TOMOHON,SMA/SMK,Tidak Ada Pengalaman,1,Pemasaran,Tidak Ada Pengalaman
+745,Eka Oktaviani,KABUPATEN BENGKALIS,S1/D4,Teknik,1,Keuangan,Teknik
+746,Bancar Wibowo,KOTA GUNUNGSITOLI,SD,Teknologi,2,Manajemen Risiko,Retail dan Dagang
+747,Heryanto Pradipta,KABUPATEN BLORA,SD,Freelance,1,Penjualan,Pelayanan
+748,Bakidin Nugroho,KABUPATEN MADIUN,SMA/SMK,Tidak Ada Pengalaman,3,Pemasaran,Freelance
+749,Amelia Narpati,KABUPATEN KUTAI TIMUR,S1/D4,Freelance,3,Mengembangkan Jaringan,Teknik
+750,Kardi Handayani,KOTA CILEGON,SMP,Retail dan Dagang,1,Manajemen Risiko,Pariwisata
+751,Violet Purnawati,KABUPATEN MERANGIN,SMA/SMK,Freelance,1,Manajemen Risiko,Retail dan Dagang
+752,Victoria Mandasari,KABUPATEN KEPAHIANG,SD,Retail dan Dagang,2,Inovasi,Pelayanan
+753,Luluh Kuswoyo,KABUPATEN WONOSOBO,SMP,Tidak Ada Pengalaman,1,Penjualan,Teknik
+754,Kalim Anggraini,KABUPATEN BIAK NUMFOR,SD,Pariwisata,1,Mengembangkan Jaringan,Freelance
+755,Cayadi Wulandari,KABUPATEN MIMIKA,SD,Pekerjaan Lepas,2,Pemasaran,Teknik
+756,Lukman Laksmiwati,KABUPATEN KUANTAN SINGINGI,SMA/SMK,Pekerjaan Lepas,3,Manajemen,Freelance
+757,Alika Saefullah,KOTA KEDIRI,SD,Freelance,1,Manajemen Risiko,Tidak Ada Pengalaman
+758,Elisa Kuswandari,KABUPATEN PENUKAL ABAB LEMATANG ILIR,SMA/SMK,Pelayanan,2,Mengembangkan Jaringan,Freelance
+759,Daruna Utama,KOTA JAYAPURA,S1/D4,Pelayanan,1,Manajemen,Retail dan Dagang
+760,Harjaya Mangunsong,KABUPATEN FLORES TIMUR,S1/D4,Retail dan Dagang,1,Manajemen Risiko,Tidak Ada Pengalaman
+761,Umar Nasyidah,KABUPATEN LABUHAN BATU UTARA,SMP,Teknik,3,Mengembangkan Jaringan,Freelance
+762,Darimin Suartini,KOTA PEMATANG SIANTAR,SMP,Pariwisata,3,Adaptasi,Retail dan Dagang
+763,Gamblang Situmorang,KABUPATEN KAYONG UTARA,SD,Teknologi,3,Komunikasi,Pekerjaan Lepas
+764,Puji Uwais,KABUPATEN BEKASI,SMA/SMK,Teknologi,3,Mengembangkan Jaringan,Pekerjaan Lepas
+765,Danang Gunawan,KABUPATEN TABALONG,SMP,Teknik,3,Penjualan,Tidak Ada Pengalaman
+766,Irsad Mardhiyah,KABUPATEN MUSI RAWAS,SMP,Teknik,3,Pemasaran,Pekerjaan Lepas
+767,Cinta Damanik,KABUPATEN NUNUKAN,S1/D4,Pelayanan,3,Teknologi Informasi,Teknologi
+768,Wawan Purnawati,KABUPATEN LABUHAN BATU SELATAN,SMA/SMK,Retail dan Dagang,1,Kepemimpinan,Freelance
+769,Edward Yolanda,KABUPATEN KEPULAUAN ANAMBAS,SMA/SMK,Pelayanan,1,Keuangan,Pekerjaan Lepas
+770,Mulyanto Kuswandari,KABUPATEN MANGGARAI TIMUR,SMA/SMK,Tidak Ada Pengalaman,3,Komunikasi,Pelayanan
+771,Yulia Astuti,KABUPATEN KONAWE KEPULAUAN,SMA/SMK,Pariwisata,2,Penjualan,Pekerjaan Lepas
+772,Agus Sihombing,KABUPATEN KUNINGAN,S1/D4,Tidak Ada Pengalaman,1,Pemasaran,Tidak Ada Pengalaman
+773,Galak Puspasari,KABUPATEN MAMUJU TENGAH,SD,Pariwisata,2,Manajemen Risiko,Retail dan Dagang
+774,Bagas Waluyo,KABUPATEN SINTANG,SD,Pekerjaan Lepas,1,Teknologi Informasi,Retail dan Dagang
+775,Rafi Yuniar,KABUPATEN KUNINGAN,SMP,Teknik,2,Penjualan,Freelance
+776,Carub Saptono,KABUPATEN KOTAWARINGIN BARAT,S1/D4,Tidak Ada Pengalaman,1,Inovasi,Pekerjaan Lepas
+777,Bakiono Wasita,KABUPATEN PESISIR BARAT,SMA/SMK,Tidak Ada Pengalaman,2,Penjualan,Retail dan Dagang
+778,Kuncara Puspita,KOTA JAYAPURA,SMA/SMK,Teknologi,1,Keuangan,Pekerjaan Lepas
+779,Belinda Uyainah,KABUPATEN ROTE NDAO,SMA/SMK,Retail dan Dagang,2,Inovasi,Teknik
+780,Jamil Hidayanto,KABUPATEN KOLAKA TIMUR,S1/D4,Pelayanan,2,Keuangan,Teknologi
+781,Nalar Kuswoyo,KABUPATEN DONGGALA,S1/D4,Teknologi,1,Teknologi Informasi,Teknologi
+782,Mahfud Ardianto,KOTA JAKARTA SELATAN,SMA/SMK,Retail dan Dagang,3,Komunikasi,Teknik
+783,Marwata Nashiruddin,KABUPATEN SUPIORI,SD,Teknologi,2,Teknologi Informasi,Pekerjaan Lepas
+784,Dipa Maulana,KABUPATEN MESUJI,SD,Tidak Ada Pengalaman,1,Komunikasi,Teknik
+785,Ratna Hassanah,KOTA SUNGAI PENUH,SD,Retail dan Dagang,3,Inovasi,Freelance
+786,Usyi Winarsih,KABUPATEN TAPANULI SELATAN,S1/D4,Teknik,2,Manajemen,Freelance
+787,Dalimin Latupono,KABUPATEN TAPANULI SELATAN,SMP,Pelayanan,1,Komunikasi,Tidak Ada Pengalaman
+788,Irma Nuraini,KABUPATEN LAMPUNG TIMUR,SMP,Teknik,3,Manajemen Risiko,Pekerjaan Lepas
+789,Unjani Simbolon,KABUPATEN PINRANG,SD,Pariwisata,1,Pemasaran,Teknologi
+790,Jayadi Suartini,KABUPATEN DEMAK,S1/D4,Teknologi,1,Keuangan,Tidak Ada Pengalaman
+791,Zaenab Maheswara,KABUPATEN DOGIYAI,SMP,Retail dan Dagang,3,Penjualan,Tidak Ada Pengalaman
+792,Galar Sudiati,KABUPATEN BLORA,SMA/SMK,Tidak Ada Pengalaman,1,Mengembangkan Jaringan,Pelayanan
+793,Sakti Wulandari,KOTA SALATIGA,SD,Freelance,2,Keuangan,Pekerjaan Lepas
+794,Maria Oktaviani,KOTA BUKITTINGGI,SD,Teknik,1,Keuangan,Tidak Ada Pengalaman
+795,Lalita Yuniar,KABUPATEN TIMOR TENGAH UTARA,SMP,Freelance,2,Adaptasi,Tidak Ada Pengalaman
+796,Estiawan Habibi,KABUPATEN DELI SERDANG,S1/D4,Retail dan Dagang,2,Pemasaran,Teknologi
+797,Gilda Laksmiwati,KABUPATEN LABUHAN BATU UTARA,SD,Freelance,3,Adaptasi,Freelance
+798,Ajimin Susanti,KOTA PEMATANG SIANTAR,SD,Teknologi,3,Kepemimpinan,Tidak Ada Pengalaman
+799,Cawisono Saragih,KOTA PASURUAN,SMP,Freelance,2,Keuangan,Teknologi
+800,Mila Saragih,KABUPATEN BANDUNG,SMP,Retail dan Dagang,3,Manajemen,Pelayanan
+801,Bakti Haryanti,KABUPATEN KOTA BARU,SMA/SMK,Pekerjaan Lepas,3,Manajemen,Pelayanan
+802,Ajiman Habibi,KABUPATEN PULAU TALIABU,SD,Pekerjaan Lepas,3,Komunikasi,Teknik
+803,Sarah Fujiati,KOTA JAKARTA PUSAT,SMP,Pekerjaan Lepas,2,Teknologi Informasi,Retail dan Dagang
+804,Galiono Nashiruddin,KABUPATEN MEMPAWAH,SMA/SMK,Pariwisata,3,Kepemimpinan,Pekerjaan Lepas
+805,Iriana Pudjiastuti,KABUPATEN BURU SELATAN,SMA/SMK,Retail dan Dagang,3,Kepemimpinan,Teknologi
+806,Pranawa Haryanti,KABUPATEN TULANGBAWANG,SD,Retail dan Dagang,1,Inovasi,Teknik
+807,Heryanto Rahmawati,KABUPATEN SIAU TAGULANDANG BIARO,SMP,Teknik,1,Pemasaran,Teknologi
+808,Martani Handayani,KABUPATEN BENGKALIS,SMA/SMK,Pelayanan,1,Manajemen Risiko,Pelayanan
+809,Karta Maryati,KABUPATEN PENUKAL ABAB LEMATANG ILIR,SMA/SMK,Freelance,3,Komunikasi,Pekerjaan Lepas
+810,Cager Lestari,KOTA PROBOLINGGO,SMP,Teknik,3,Teknologi Informasi,Freelance
+811,Safina Nababan,KABUPATEN OGAN KOMERING ULU,SD,Pelayanan,2,Keuangan,Retail dan Dagang
+812,Margana Budiman,KABUPATEN BATANG HARI,S1/D4,Teknologi,2,Pemasaran,Teknik
+813,Ulya Puspita,KABUPATEN MAMBERAMO RAYA,SMA/SMK,Pariwisata,3,Adaptasi,Freelance
+814,Himawan Puspasari,KOTA BAUBAU,SMP,Pariwisata,3,Inovasi,Pariwisata
+815,Cahyono Uyainah,KABUPATEN HULU SUNGAI TENGAH,SMA/SMK,Pelayanan,3,Keuangan,Teknik
+816,Cahya Santoso,KABUPATEN BANGKA BARAT,SMA/SMK,Pariwisata,2,Kepemimpinan,Pelayanan
+817,Puti Marpaung,KABUPATEN TAPIN,SD,Tidak Ada Pengalaman,3,Manajemen,Pekerjaan Lepas
+818,Kayun Zulaika,KABUPATEN SUMEDANG,SD,Teknologi,2,Komunikasi,Teknik
+819,Eka Uwais,KABUPATEN WONOGIRI,SMP,Tidak Ada Pengalaman,3,Mengembangkan Jaringan,Freelance
+820,Bakianto Lazuardi,KABUPATEN NIAS,S1/D4,Freelance,3,Keuangan,Pariwisata
+821,Kurnia Utami,KABUPATEN MAJENE,SMP,Tidak Ada Pengalaman,2,Kepemimpinan,Teknik
+822,Darmaji Iswahyudi,KABUPATEN TANA TORAJA,SMP,Retail dan Dagang,1,Inovasi,Tidak Ada Pengalaman
+823,Mahesa Pangestu,KABUPATEN BENGKULU SELATAN,S1/D4,Retail dan Dagang,1,Komunikasi,Retail dan Dagang
+824,Daliman Gunawan,KABUPATEN WAY KANAN,SMP,Teknik,1,Inovasi,Retail dan Dagang
+825,Zizi Kuswandari,KABUPATEN BENER MERIAH,SMA/SMK,Tidak Ada Pengalaman,2,Keuangan,Pelayanan
+826,Cici Farida,KABUPATEN YAHUKIMO,SD,Freelance,1,Inovasi,Pekerjaan Lepas
+827,Usman Lazuardi,KABUPATEN PENAJAM PASER UTARA,SMA/SMK,Teknik,1,Teknologi Informasi,Tidak Ada Pengalaman
+828,Septi Rajasa,KABUPATEN SELUMA,S1/D4,Teknologi,1,Teknologi Informasi,Freelance
+829,Janet Safitri,KABUPATEN BULELENG,SD,Retail dan Dagang,2,Teknologi Informasi,Pekerjaan Lepas
+830,Widya Andriani,KABUPATEN BANGKA SELATAN,SMP,Teknologi,1,Mengembangkan Jaringan,Pelayanan
+831,Margana Hassanah,KABUPATEN HULU SUNGAI SELATAN,SMP,Freelance,3,Kepemimpinan,Pekerjaan Lepas
+832,Kalim Mandasari,KABUPATEN KONAWE SELATAN,SD,Pelayanan,3,Mengembangkan Jaringan,Pekerjaan Lepas
+833,Zulaikha Yuliarti,KOTA SAMARINDA,S1/D4,Teknik,2,Pemasaran,Retail dan Dagang
+834,Karja Tarihoran,KABUPATEN SERANG,SMP,Teknik,1,Teknologi Informasi,Pelayanan
+835,Tari Saptono,KOTA MANADO,SD,Tidak Ada Pengalaman,2,Teknologi Informasi,Freelance
+836,Wulan Wacana,KABUPATEN LANNY JAYA,SMP,Retail dan Dagang,2,Kepemimpinan,Teknik
+837,Galih Marbun,KABUPATEN TEMANGGUNG,SMA/SMK,Teknik,3,Keuangan,Teknik
+838,Cornelia Nurdiyanti,KABUPATEN MAMBERAMO RAYA,SMA/SMK,Freelance,1,Keuangan,Pekerjaan Lepas
+839,Dacin Prasasta,KABUPATEN JAYAPURA,SMA/SMK,Retail dan Dagang,2,Komunikasi,Teknik
+840,Ina Maulana,KABUPATEN MAJENE,SMP,Pariwisata,2,Teknologi Informasi,Teknik
+841,Ajiman Hidayat,KABUPATEN OGAN KOMERING ILIR,SD,Pariwisata,2,Penjualan,Pelayanan
+842,Jarwadi Hutasoit,KABUPATEN SOPPENG,S1/D4,Pelayanan,3,Manajemen Risiko,Tidak Ada Pengalaman
+843,Cahya Firgantoro,KABUPATEN JEPARA,SMA/SMK,Teknik,1,Inovasi,Teknik
+844,Bambang Iswahyudi,KABUPATEN KLATEN,SMA/SMK,Freelance,2,Manajemen,Teknik
+845,Sabrina Handayani,KABUPATEN ALOR,S1/D4,Retail dan Dagang,3,Pemasaran,Freelance
+846,Titin Mandala,KABUPATEN MOROWALI UTARA,S1/D4,Teknologi,1,Manajemen Risiko,Retail dan Dagang
+847,Restu Mustofa,KOTA BITUNG,SD,Teknologi,2,Mengembangkan Jaringan,Teknologi
+848,Tania Permata,KABUPATEN PEGUNUNGAN ARFAK,SMA/SMK,Teknologi,1,Manajemen Risiko,Pekerjaan Lepas
+849,Lasmono Sitompul,KABUPATEN LABUHAN BATU,S1/D4,Tidak Ada Pengalaman,2,Manajemen Risiko,Tidak Ada Pengalaman
+850,Karsana Andriani,KABUPATEN DAIRI,S1/D4,Tidak Ada Pengalaman,2,Kepemimpinan,Retail dan Dagang
+851,Cahya Wahyudin,KABUPATEN KAUR,SD,Tidak Ada Pengalaman,2,Mengembangkan Jaringan,Teknologi
+852,Gandewa Suwarno,KABUPATEN BUTON UTARA,S1/D4,Retail dan Dagang,1,Mengembangkan Jaringan,Retail dan Dagang
+853,Karman Wibisono,KABUPATEN ASMAT,SD,Retail dan Dagang,1,Kepemimpinan,Teknik
+854,Emil Jailani,KABUPATEN PADANG LAWAS UTARA,S1/D4,Tidak Ada Pengalaman,1,Mengembangkan Jaringan,Freelance
+855,Catur Mandala,KABUPATEN BONDOWOSO,SMA/SMK,Pekerjaan Lepas,3,Komunikasi,Freelance
+856,Adhiarja Lazuardi,KABUPATEN BOYOLALI,SMA/SMK,Freelance,2,Keuangan,Pekerjaan Lepas
+857,Oskar Nurdiyanti,KABUPATEN NIAS,S1/D4,Teknologi,1,Manajemen,Teknik
+858,Uchita Saputra,KABUPATEN SORONG SELATAN,SMA/SMK,Pekerjaan Lepas,1,Penjualan,Teknologi
+859,Cahyanto Aryani,KABUPATEN KONAWE KEPULAUAN,SD,Pariwisata,1,Adaptasi,Pekerjaan Lepas
+860,Marwata Sihotang,KABUPATEN TAPANULI TENGAH,S1/D4,Pekerjaan Lepas,2,Mengembangkan Jaringan,Tidak Ada Pengalaman
+861,Mustofa Sihotang,KABUPATEN JAYAWIJAYA,SMA/SMK,Retail dan Dagang,3,Adaptasi,Teknik
+862,Jaya Laksmiwati,KABUPATEN TORAJA UTARA,S1/D4,Teknik,1,Kepemimpinan,Pelayanan
+863,Kasiran Padmasari,KABUPATEN TELUK BINTUNI,S1/D4,Retail dan Dagang,1,Manajemen Risiko,Teknologi
+864,Heru Hartati,KABUPATEN SIMEULUE,SMA/SMK,Freelance,3,Kepemimpinan,Tidak Ada Pengalaman
+865,Mahesa Wibowo,KABUPATEN PACITAN,S1/D4,Teknologi,2,Mengembangkan Jaringan,Teknik
+866,Zizi Wacana,KABUPATEN BENGKULU SELATAN,SMA/SMK,Pelayanan,2,Komunikasi,Freelance
+867,Johan Lestari,KOTA BANJARMASIN,SD,Teknologi,1,Mengembangkan Jaringan,Pelayanan
+868,Karman Safitri,KABUPATEN KENDAL,S1/D4,Freelance,2,Komunikasi,Pelayanan
+869,Upik Rahmawati,KABUPATEN MADIUN,SMA/SMK,Pelayanan,3,Keuangan,Freelance
+870,Putri Pertiwi,KABUPATEN PADANG PARIAMAN,SD,Tidak Ada Pengalaman,3,Kepemimpinan,Pariwisata
+871,Aswani Hassanah,KOTA AMBON,SD,Retail dan Dagang,1,Manajemen,Freelance
+872,Iriana Yuniar,KABUPATEN TELUK WONDAMA,SD,Retail dan Dagang,2,Inovasi,Teknologi
+873,Jayeng Rahimah,KABUPATEN BENGKAYANG,SD,Retail dan Dagang,1,Pemasaran,Pekerjaan Lepas
+874,Marsudi Sihombing,KABUPATEN KEPULAUAN MENTAWAI,SMA/SMK,Pekerjaan Lepas,3,Kepemimpinan,Teknik
+875,Hasna Utama,KOTA CIMAHI,SMP,Teknik,1,Penjualan,Pariwisata
+876,Eman Prastuti,KABUPATEN OGAN KOMERING ILIR,SMA/SMK,Teknik,1,Manajemen Risiko,Retail dan Dagang
+877,Setya Sitorus,KABUPATEN LUWU TIMUR,SMP,Teknologi,1,Keuangan,Tidak Ada Pengalaman
+878,Rahmat Lestari,KOTA CIREBON,SMP,Pelayanan,1,Kepemimpinan,Teknologi
+879,Mumpuni Napitupulu,KABUPATEN NGADA,S1/D4,Pekerjaan Lepas,2,Inovasi,Teknik
+880,Jane Maulana,KABUPATEN S I A K,SD,Teknik,1,Komunikasi,Teknik
+881,Galur Siregar,KABUPATEN BARRU,SMA/SMK,Pekerjaan Lepas,1,Inovasi,Pekerjaan Lepas
+882,Jono Puspasari,KABUPATEN HALMAHERA TIMUR,S1/D4,Tidak Ada Pengalaman,1,Adaptasi,Pariwisata
+883,Titi Hastuti,KABUPATEN NIAS BARAT,SD,Tidak Ada Pengalaman,1,Keuangan,Pelayanan
+884,Yulia Simanjuntak,KABUPATEN KEEROM,SMA/SMK,Pariwisata,1,Manajemen Risiko,Pekerjaan Lepas
+885,Ikhsan Sihotang,KOTA SALATIGA,S1/D4,Teknik,1,Penjualan,Pariwisata
+886,Jasmani Pertiwi,KABUPATEN DOMPU,S1/D4,Teknik,1,Teknologi Informasi,Teknik
+887,Samiah Samosir,KABUPATEN TULANG BAWANG BARAT,SMA/SMK,Pelayanan,2,Komunikasi,Teknik
+888,Kairav Puspasari,KABUPATEN MAROS,SD,Tidak Ada Pengalaman,1,Manajemen Risiko,Retail dan Dagang
+889,Raden Lestari,KOTA MADIUN,SMA/SMK,Pelayanan,2,Kepemimpinan,Pariwisata
+890,Ana Laksita,KABUPATEN PARIGI MOUTONG,SMP,Teknik,3,Mengembangkan Jaringan,Retail dan Dagang
+891,Galih Ardianto,KABUPATEN ACEH TAMIANG,SD,Freelance,1,Komunikasi,Teknologi
+892,Nyoman Waluyo,KABUPATEN KEEROM,S1/D4,Tidak Ada Pengalaman,3,Keuangan,Pelayanan
+893,Kajen Iswahyudi,KABUPATEN PANGKAJENE DAN KEPULAUAN,S1/D4,Freelance,2,Manajemen Risiko,Teknik
+894,Jarwa Saragih,KABUPATEN PIDIE JAYA,SMP,Pekerjaan Lepas,1,Kepemimpinan,Retail dan Dagang
+895,Luthfi Ardianto,KOTA SALATIGA,SMP,Pariwisata,3,Adaptasi,Pelayanan
+896,Maryadi Prakasa,KABUPATEN KEPULAUAN TALAUD,SMA/SMK,Tidak Ada Pengalaman,2,Pemasaran,Teknologi
+897,Cici Prasetya,KABUPATEN LABUHAN BATU SELATAN,SMP,Teknik,3,Kepemimpinan,Pekerjaan Lepas
+898,Harjo Anggriawan,KABUPATEN GUNUNG MAS,SD,Tidak Ada Pengalaman,1,Inovasi,Pariwisata
+899,Jais Safitri,KABUPATEN BREBES,SMP,Tidak Ada Pengalaman,1,Teknologi Informasi,Pekerjaan Lepas
+900,Jamal Wasita,KABUPATEN MALUKU BARAT DAYA,SD,Teknologi,1,Kepemimpinan,Pariwisata
+901,Kartika Melani,KABUPATEN TULUNGAGUNG,SD,Pelayanan,1,Kepemimpinan,Pekerjaan Lepas
+902,Cawuk Gunawan,KABUPATEN PARIGI MOUTONG,SMA/SMK,Teknologi,3,Teknologi Informasi,Freelance
+903,Dwi Mahendra,KABUPATEN BANGGAI KEPULAUAN,SMP,Teknik,2,Komunikasi,Pekerjaan Lepas
+904,Edison Agustina,KABUPATEN PIDIE JAYA,SD,Pelayanan,2,Penjualan,Teknik
+905,Mujur Tarihoran,KABUPATEN JEMBRANA,SMP,Teknologi,2,Manajemen Risiko,Teknologi
+906,Kania Sudiati,KABUPATEN TELUK BINTUNI,SD,Pariwisata,3,Komunikasi,Pekerjaan Lepas
+907,Damu Santoso,KABUPATEN BADUNG,SD,Pelayanan,3,Teknologi Informasi,Retail dan Dagang
+908,Patricia Latupono,KABUPATEN LAMANDAU,S1/D4,Retail dan Dagang,2,Komunikasi,Pekerjaan Lepas
+909,Karsana Saefullah,KOTA SABANG,S1/D4,Teknologi,2,Inovasi,Freelance
+910,Ulya Natsir,KABUPATEN SORONG,SMA/SMK,Teknik,1,Adaptasi,Retail dan Dagang
+911,Martana Novitasari,KOTA PALANGKA RAYA,S1/D4,Tidak Ada Pengalaman,3,Manajemen Risiko,Pekerjaan Lepas
+912,Jayeng Uyainah,KABUPATEN MOROWALI,SD,Pelayanan,1,Teknologi Informasi,Tidak Ada Pengalaman
+913,Vega Marbun,KOTA MAGELANG,SD,Tidak Ada Pengalaman,3,Mengembangkan Jaringan,Freelance
+914,Garan Thamrin,KABUPATEN MURUNG RAYA,SD,Pekerjaan Lepas,3,Pemasaran,Teknik
+915,Nasim Utama,KABUPATEN TOLIKARA,S1/D4,Retail dan Dagang,3,Manajemen,Pariwisata
+916,Bahuraksa Dabukke,KOTA PAGAR ALAM,SD,Pekerjaan Lepas,1,Manajemen Risiko,Teknik
+917,Danu Nainggolan,KABUPATEN MANOKWARI,SMP,Pariwisata,2,Manajemen,Freelance
+918,Raden Rajata,KABUPATEN NIAS UTARA,SD,Tidak Ada Pengalaman,1,Pemasaran,Tidak Ada Pengalaman
+919,Reza Rahayu,KABUPATEN SUBANG,S1/D4,Retail dan Dagang,3,Pemasaran,Freelance
+920,Putri Kusumo,KABUPATEN AGAM,SMP,Teknik,1,Mengembangkan Jaringan,Retail dan Dagang
+921,Gandi Simanjuntak,KABUPATEN MALAKA,SMA/SMK,Pekerjaan Lepas,1,Teknologi Informasi,Pelayanan
+922,Indra Mandasari,KABUPATEN SOLOK SELATAN,SD,Pekerjaan Lepas,1,Adaptasi,Teknik
+923,Alika Hartati,KABUPATEN KARAWANG,S1/D4,Freelance,3,Komunikasi,Teknik
+924,Kenes Januar,KABUPATEN MANDAILING NATAL,SD,Freelance,1,Kepemimpinan,Pekerjaan Lepas
+925,Darimin Astuti,KABUPATEN TANGERANG,S1/D4,Pekerjaan Lepas,3,Inovasi,Teknik
+926,Damu Saptono,KABUPATEN DHARMASRAYA,S1/D4,Pelayanan,3,Pemasaran,Freelance
+927,Eka Wibisono,KABUPATEN MANGGARAI,SD,Pekerjaan Lepas,3,Mengembangkan Jaringan,Pariwisata
+928,Talia Gunarto,KABUPATEN CIANJUR,SMA/SMK,Tidak Ada Pengalaman,2,Adaptasi,Pelayanan
+929,Jagaraga Rajasa,KABUPATEN BARITO SELATAN,S1/D4,Teknologi,2,Manajemen,Teknik
+930,Gantar Prakasa,KOTA BITUNG,SMP,Pekerjaan Lepas,1,Manajemen Risiko,Retail dan Dagang
+931,Mursita Megantara,KABUPATEN LABUHAN BATU UTARA,SMA/SMK,Retail dan Dagang,2,Adaptasi,Retail dan Dagang
+932,Jaswadi Wahyudin,KABUPATEN KONAWE KEPULAUAN,S1/D4,Teknologi,3,Komunikasi,Pariwisata
+933,Elvin Hartati,KABUPATEN JEMBRANA,SD,Pariwisata,3,Keuangan,Freelance
+934,Ika Anggraini,KABUPATEN TELUK BINTUNI,SMA/SMK,Freelance,2,Mengembangkan Jaringan,Pekerjaan Lepas
+935,Marwata Wijayanti,KABUPATEN SIJUNJUNG,SMP,Retail dan Dagang,3,Inovasi,Freelance
+936,Rafi Mulyani,KABUPATEN SUBANG,SD,Pariwisata,3,Manajemen,Pelayanan
+937,Mumpuni Hasanah,KOTA PADANG PANJANG,S1/D4,Freelance,1,Komunikasi,Teknik
+938,Siti Utama,KABUPATEN MUSI RAWAS,SMP,Pariwisata,2,Inovasi,Pekerjaan Lepas
+939,Azalea Kuswoyo,KABUPATEN EMPAT LAWANG,SMP,Tidak Ada Pengalaman,1,Manajemen Risiko,Pariwisata
+940,Nasab Situmorang,KABUPATEN PATI,S1/D4,Teknologi,1,Kepemimpinan,Retail dan Dagang
+941,Olivia Thamrin,KOTA BONTANG,SMP,Tidak Ada Pengalaman,1,Kepemimpinan,Pekerjaan Lepas
+942,Eka Prabowo,KABUPATEN PRINGSEWU,SMP,Pariwisata,1,Kepemimpinan,Pariwisata
+943,Wahyu Mahendra,KOTA PALEMBANG,SD,Retail dan Dagang,2,Teknologi Informasi,Pelayanan
+944,Baktiadi Puspasari,KABUPATEN ACEH TENGGARA,SD,Pelayanan,2,Teknologi Informasi,Freelance
+945,Bakiadi Mandasari,KABUPATEN ACEH TENGGARA,SD,Pelayanan,3,Manajemen Risiko,Teknologi
+946,Galar Prasetyo,KABUPATEN SIMALUNGUN,S1/D4,Pekerjaan Lepas,1,Keuangan,Tidak Ada Pengalaman
+947,Oni Haryanto,KABUPATEN BELITUNG,SD,Pelayanan,1,Inovasi,Pariwisata
+948,Cakrawala Uyainah,KOTA CIREBON,SMP,Freelance,3,Pemasaran,Freelance
+949,Vero Oktaviani,KABUPATEN SIGI,SD,Pekerjaan Lepas,2,Manajemen,Pariwisata
+950,Cindy Budiman,KABUPATEN TANAH LAUT,S1/D4,Pekerjaan Lepas,2,Mengembangkan Jaringan,Pekerjaan Lepas
+951,Sari Suryono,KABUPATEN PELALAWAN,SMP,Teknologi,2,Adaptasi,Tidak Ada Pengalaman
+952,Bakiadi Hasanah,KABUPATEN SITUBONDO,SMA/SMK,Teknologi,3,Kepemimpinan,Retail dan Dagang
+953,Pangestu Anggraini,KABUPATEN BARITO UTARA,SMA/SMK,Pekerjaan Lepas,1,Manajemen Risiko,Pariwisata
+954,Titi Wulandari,KABUPATEN SUMENEP,SMA/SMK,Teknologi,3,Pemasaran,Teknologi
+955,Atmaja Yulianti,KOTA JAKARTA TIMUR,SMA/SMK,Freelance,2,Pemasaran,Pelayanan
+956,Hasan Rahimah,KABUPATEN KUTAI BARAT,S1/D4,Freelance,1,Manajemen Risiko,Tidak Ada Pengalaman
+957,Vega Purwanti,KABUPATEN REMBANG,SMA/SMK,Pariwisata,2,Kepemimpinan,Pekerjaan Lepas
+958,Vera Anggraini,KABUPATEN SAMOSIR,SMP,Pekerjaan Lepas,1,Inovasi,Pelayanan
+959,Alika Mardhiyah,KABUPATEN BLORA,SD,Pariwisata,2,Manajemen Risiko,Pariwisata
+960,Almira Maulana,KOTA DENPASAR,SMA/SMK,Pelayanan,1,Teknologi Informasi,Pekerjaan Lepas
+961,Aurora Rajata,KOTA JAKARTA SELATAN,S1/D4,Pariwisata,1,Adaptasi,Teknik
+962,Cahyadi Prabowo,KABUPATEN KOLAKA,SMP,Retail dan Dagang,3,Keuangan,Pekerjaan Lepas
+963,Dipa Wahyudin,KABUPATEN SORONG SELATAN,SMP,Tidak Ada Pengalaman,3,Adaptasi,Teknologi
+964,Kamidin Ardianto,KABUPATEN LAHAT,SD,Retail dan Dagang,2,Adaptasi,Freelance
+965,Malika Hardiansyah,KABUPATEN ACEH JAYA,SMA/SMK,Pariwisata,2,Kepemimpinan,Retail dan Dagang
+966,Cakrabuana Yuniar,KABUPATEN PANGANDARAN,S1/D4,Pekerjaan Lepas,2,Komunikasi,Retail dan Dagang
+967,Kamal Palastri,KABUPATEN MAMBERAMO TENGAH,SMP,Pekerjaan Lepas,2,Pemasaran,Pelayanan
+968,Fitriani Mustofa,KABUPATEN WAKATOBI,SMP,Tidak Ada Pengalaman,2,Adaptasi,Pariwisata
+969,Ikhsan Irawan,KABUPATEN KOLAKA TIMUR,S1/D4,Teknik,1,Adaptasi,Tidak Ada Pengalaman
+970,Ibrahim Maryadi,KABUPATEN LABUHAN BATU,SD,Freelance,1,Manajemen Risiko,Retail dan Dagang
+971,Aslijan Natsir,KOTA CILEGON,S1/D4,Freelance,2,Pemasaran,Retail dan Dagang
+972,Jagapati Hakim,KABUPATEN SUMBA BARAT DAYA,S1/D4,Tidak Ada Pengalaman,2,Komunikasi,Pekerjaan Lepas
+973,Cakrawangsa Nainggolan,KABUPATEN KUTAI BARAT,SMP,Pariwisata,2,Adaptasi,Pelayanan
+974,Eman Saefullah,KOTA PEKANBARU,SMP,Tidak Ada Pengalaman,2,Manajemen,Freelance
+975,Tari Nuraini,KABUPATEN PASER,SMP,Pelayanan,3,Komunikasi,Pelayanan
+976,Dewi Rajata,KABUPATEN BATANG HARI,SMA/SMK,Pariwisata,1,Pemasaran,Teknologi
+977,Harsaya Prabowo,KOTA BANJARMASIN,SMA/SMK,Tidak Ada Pengalaman,3,Pemasaran,Freelance
+978,Alika Hakim,KABUPATEN BARITO KUALA,SD,Freelance,2,Teknologi Informasi,Freelance
+979,Uli Pangestu,KOTA JAKARTA PUSAT,SMA/SMK,Freelance,1,Teknologi Informasi,Teknologi
+980,Kemal Hutapea,KOTA KUPANG,SD,Freelance,2,Kepemimpinan,Teknologi
+981,Gaman Pradipta,KOTA SALATIGA,SMP,Pelayanan,3,Penjualan,Pelayanan
+982,Yani Saefullah,KABUPATEN WAJO,SD,Tidak Ada Pengalaman,2,Adaptasi,Retail dan Dagang
+983,Wulan Prayoga,KABUPATEN LINGGA,SMA/SMK,Freelance,3,Manajemen,Teknik
+984,Nrima Sirait,KABUPATEN NIAS BARAT,SMP,Teknik,1,Komunikasi,Teknik
+985,Lalita Wijayanti,KABUPATEN LAMPUNG SELATAN,SD,Pekerjaan Lepas,1,Teknologi Informasi,Teknik
+986,Adhiarja Marbun,KABUPATEN LABUHAN BATU SELATAN,SD,Freelance,1,Inovasi,Retail dan Dagang
+987,Oni Budiman,KABUPATEN GUNUNG MAS,SMP,Pelayanan,2,Manajemen,Pekerjaan Lepas
+988,Nasab Kusumo,KABUPATEN WAKATOBI,S1/D4,Pekerjaan Lepas,3,Pemasaran,Pariwisata
+989,Rizki Pratama,KABUPATEN WAKATOBI,SMA/SMK,Pelayanan,3,Penjualan,Pelayanan
+990,Warji Melani,KOTA SAWAH LUNTO,SMP,Pekerjaan Lepas,1,Mengembangkan Jaringan,Pelayanan
+991,Embuh Zulkarnain,KABUPATEN ROTE NDAO,S1/D4,Tidak Ada Pengalaman,3,Inovasi,Pelayanan
+992,Cager Wijaya,KOTA SOLOK,SMP,Teknik,1,Komunikasi,Tidak Ada Pengalaman
+993,Yosef Pratiwi,KABUPATEN SUKOHARJO,SD,Pelayanan,2,Manajemen Risiko,Teknologi
+994,Ganda Mardhiyah,KABUPATEN KOTA BARU,SMP,Pekerjaan Lepas,3,Kepemimpinan,Pekerjaan Lepas
+995,Mila Novitasari,KOTA TIDORE KEPULAUAN,SMA/SMK,Teknologi,1,Keuangan,Retail dan Dagang
+996,Among Laksmiwati,KABUPATEN MANOKWARI,SD,Retail dan Dagang,2,Inovasi,Tidak Ada Pengalaman
+997,Galih Dongoran,KABUPATEN SUMBA TENGAH,SMA/SMK,Freelance,2,Mengembangkan Jaringan,Freelance
+998,Bakianto Zulkarnain,KABUPATEN SORONG SELATAN,SMP,Teknik,2,Komunikasi,Tidak Ada Pengalaman
+999,Jaswadi Lazuardi,KABUPATEN LOMBOK BARAT,SMP,Retail dan Dagang,3,Mengembangkan Jaringan,Teknologi
+1000,Nabila Oktaviani,KABUPATEN KULON PROGO,SD,Teknik,1,Teknologi Informasi,Teknik
