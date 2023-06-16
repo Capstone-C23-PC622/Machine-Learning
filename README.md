@@ -32,11 +32,13 @@ $ gcloud run deploy --image gcr.io/[project-id-kalian]/flask-model-deployment --
 - CRUD Profile
 
 ## Jika sudah berhasil tampilan akan seperti ini :
-![gambar1](https://github.com/Capstone-C23-PC622/Machine-Learning/assets/75290755/2e492ef1-e104-474a-a060-cab432889a40)
+
+![gambar3](https://github.com/Capstone-C23-PC622/Machine-Learning/assets/75290755/0f4a3aa4-c5d6-4963-9fd2-e94ce2f63ccf)
 
 ![gambar2](https://github.com/Capstone-C23-PC622/Machine-Learning/assets/75290755/30b91f4b-a25b-4947-81d9-68743183cfa3)
+
 ## Setelah proses deploy selesai, saat di test pada POSTMAN
-![gambar3](https://github.com/Capstone-C23-PC622/Machine-Learning/assets/75290755/0f4a3aa4-c5d6-4963-9fd2-e94ce2f63ccf)
+![gambar1](https://github.com/Capstone-C23-PC622/Machine-Learning/assets/75290755/2e492ef1-e104-474a-a060-cab432889a40)
 
 ## License
 
